@@ -1,0 +1,12 @@
+2023/11/20-20:42:22.432 fd14e Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/20-20:42:22.433 fd14e Recovering log #23
+2023/11/20-20:42:22.488 fd14e Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000023.log 
+2023/11/20-20:42:43.912 fd127 Level-0 table #29: started
+2023/11/20-20:42:43.948 fd127 Level-0 table #29: 1475329 bytes OK
+2023/11/20-20:42:43.959 fd127 Delete type=0 #23
+2023/11/20-20:42:54.298 fd11c Compacting 1@1 + 1@2 files
+2023/11/20-20:42:54.314 fd11c Generated table #30@1: 391 keys, 60918 bytes
+2023/11/20-20:42:54.314 fd11c Compacted 1@1 + 1@2 files => 60918 bytes
+2023/11/20-20:42:54.323 fd11c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/20-20:42:54.323 fd11c Delete type=2 #26
+2023/11/20-20:42:54.324 fd11c Delete type=2 #29

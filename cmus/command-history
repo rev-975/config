@@ -1,0 +1,20 @@
+fset classical=genre="Classical"
+q
+colorscheme zenburn
+colorscheme spotify
+colorscheme night
+colorscheme jellybeans
+colorscheme gruvbox-warm
+colorscheme 
+colorscheme gruvbox
+colorscheme dracula
+colorscheme default
+colorscheme amazon
+add ~/mus/
+colorscheme
+live-filter 
+colorscheme gruvbox-alt
+pl-create howling_vortex
+wq
+add ~/mus
+pl-create wordfucker_unlimited

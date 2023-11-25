@@ -1,0 +1,413 @@
+{
+   "checksum": "dd88cc3ecf1f8ed7449d37c9854cc616",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13344451014750525",
+               "date_last_used": "0",
+               "guid": "853a0d32-d4dd-46a9-ab47-1a953cef3b1a",
+               "id": "8",
+               "name": "blog vim",
+               "type": "url",
+               "url": "https://wiby.me/?q=blog%20vim&p=2"
+            }, {
+               "date_added": "13344451014750957",
+               "date_last_used": "0",
+               "guid": "45fe2be3-c9c0-4a99-a711-7797b2ff278a",
+               "id": "9",
+               "name": "Links - Tarneo's blog",
+               "type": "url",
+               "url": "https://tarneo.fr/links/"
+            }, {
+               "date_added": "13344451014751386",
+               "date_last_used": "0",
+               "guid": "a4a6d05b-cc1a-4aa7-b157-99dda0e99f04",
+               "id": "10",
+               "name": "Free pages | Everything I Know",
+               "type": "url",
+               "url": "https://wiki.nikiv.dev/free"
+            }, {
+               "date_added": "13344451014751826",
+               "date_last_used": "0",
+               "guid": "e7deaefd-8064-4ba6-af0b-9cf2cf1a79ac",
+               "id": "11",
+               "name": "Programming | Everything I Know",
+               "type": "url",
+               "url": "https://wiki.nikiv.dev/programming/"
+            }, {
+               "date_added": "13344451014752431",
+               "date_last_used": "0",
+               "guid": "47d35e34-9e56-4cac-a103-fe00533af2d9",
+               "id": "12",
+               "name": "Drew DeVault's blog",
+               "type": "url",
+               "url": "https://drewdevault.com/"
+            }, {
+               "date_added": "13344451014752885",
+               "date_last_used": "0",
+               "guid": "c782b499-8321-4674-915b-7a1eaa623cba",
+               "id": "13",
+               "name": "Hyprland is a toxic community",
+               "type": "url",
+               "url": "https://drewdevault.com/2023/09/17/Hyprland-toxicity.html"
+            }, {
+               "date_added": "13344451014753342",
+               "date_last_used": "0",
+               "guid": "905ac83d-3a26-4d30-be60-762fc9a22c18",
+               "id": "14",
+               "name": "Going off-script",
+               "type": "url",
+               "url": "https://drewdevault.com/2023/10/13/Going-off-script.html"
+            }, {
+               "date_added": "13344451014753790",
+               "date_last_used": "0",
+               "guid": "67951cd8-a30d-4c7a-a2be-3c90e79b9716",
+               "id": "15",
+               "name": "Alpine Linux does not make the news",
+               "type": "url",
+               "url": "https://drewdevault.com/2023/07/25/Alpine-does-not-make-news.html"
+            }, {
+               "date_added": "13344451014754308",
+               "date_last_used": "0",
+               "guid": "f2daf62b-e5c7-45de-923f-f952dfa09d2f",
+               "id": "16",
+               "name": "Burnout and the quiet failures of the hacker community",
+               "type": "url",
+               "url": "https://drewdevault.com/2023/06/29/Burnout-2.html"
+            }, {
+               "date_added": "13344451014754798",
+               "date_last_used": "0",
+               "guid": "48110b5d-982a-47b9-9fe4-6c040c9ee64a",
+               "id": "17",
+               "name": "Burnout",
+               "type": "url",
+               "url": "https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html"
+            }, {
+               "date_added": "13344451014755219",
+               "date_last_used": "0",
+               "guid": "2b1bb142-95c0-4935-8d82-95c24b507782",
+               "id": "18",
+               "name": "rc: a new shell for Unix",
+               "type": "url",
+               "url": "https://drewdevault.com/2023/04/18/2023-04-18-A-new-shell-for-Unix.html"
+            }, {
+               "date_added": "13344451014755870",
+               "date_last_used": "0",
+               "guid": "30e37d19-7adb-43d7-a561-69a8a42f597b",
+               "id": "19",
+               "name": "Blog · emersion",
+               "type": "url",
+               "url": "https://emersion.fr/blog/"
+            }, {
+               "date_added": "13344451014756416",
+               "date_last_used": "0",
+               "guid": "535c642b-4a91-4496-8e50-7f9311423d2a",
+               "id": "20",
+               "name": "go.dev/blog/feed.atom",
+               "type": "url",
+               "url": "https://go.dev/blog/feed.atom"
+            }, {
+               "date_added": "13344451014756839",
+               "date_last_used": "0",
+               "guid": "9b909492-7a14-496d-8882-0464058b7079",
+               "id": "21",
+               "name": "404 Page not found",
+               "type": "url",
+               "url": "https://carlosbecker.com/posts/on-being-an-effective-developer/"
+            }, {
+               "date_added": "13344451014757273",
+               "date_last_used": "0",
+               "guid": "aa3dfd95-7bf9-485d-b44a-530b8f830909",
+               "id": "22",
+               "name": "Comment Your Code · npf.io",
+               "type": "url",
+               "url": "https://npf.io/2017/11/comments/"
+            }, {
+               "date_added": "13344451014757716",
+               "date_last_used": "0",
+               "guid": "b4be6b76-4709-4ebf-85ba-20693c87d63f",
+               "id": "23",
+               "name": "Writing Good Bug Reports | PSPDFKit",
+               "type": "url",
+               "url": "https://pspdfkit.com/blog/2016/writing-good-bug-reports/"
+            }, {
+               "date_added": "13344451014758178",
+               "date_last_used": "0",
+               "guid": "55e5452f-9cee-441c-b787-d49275b5649c",
+               "id": "24",
+               "name": "bug repellent",
+               "type": "url",
+               "url": "https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases"
+            }, {
+               "date_added": "13344451014758618",
+               "date_last_used": "0",
+               "guid": "36378ede-0177-4e5a-b483-bd6b1c9078e8",
+               "id": "25",
+               "name": "Reddit - Dive into anything",
+               "type": "url",
+               "url": "https://www.reddit.com/r/Physics_olympiad/wiki/index/#wiki_mechanics.3A"
+            }, {
+               "date_added": "13344451014759083",
+               "date_last_used": "13344452134085355",
+               "guid": "f0eb8572-da99-4f24-915d-409849505ae5",
+               "id": "26",
+               "name": "kleppner-kolenkow-introduction-to-mechanics.pdf",
+               "type": "url",
+               "url": "https://smarosa.files.wordpress.com/2018/10/kleppner-kolenkow-introduction-to-mechanics.pdf"
+            }, {
+               "date_added": "13344451014759542",
+               "date_last_used": "0",
+               "guid": "02ecf6ec-70f8-4712-8f9a-fd88201bd398",
+               "id": "27",
+               "name": "Ask HN: How to self-study physics? | Hacker News",
+               "type": "url",
+               "url": "https://news.ycombinator.com/item?id=22682837"
+            }, {
+               "date_added": "13344451014760063",
+               "date_last_used": "0",
+               "guid": "36f1ee56-311e-42b0-a4ba-a4045dcb3166",
+               "id": "28",
+               "name": "www.marginalia.nu @ marginalia.nu",
+               "type": "url",
+               "url": "https://www.marginalia.nu/"
+            }, {
+               "date_added": "13344451014760547",
+               "date_last_used": "0",
+               "guid": "30c1a0d2-7b36-44c7-8fb7-80298a6adf63",
+               "id": "29",
+               "name": "Weblog @ marginalia.nu",
+               "type": "url",
+               "url": "https://www.marginalia.nu/log/"
+            }, {
+               "date_added": "13344451014760970",
+               "date_last_used": "0",
+               "guid": "ff306ecc-f3d1-4878-acae-5d6a5320afd8",
+               "id": "30",
+               "name": "blog of stigok",
+               "type": "url",
+               "url": "https://blog.stigok.com/"
+            }, {
+               "date_added": "13344451014761396",
+               "date_last_used": "0",
+               "guid": "a4d44ac9-1e86-4165-9360-33430c17322b",
+               "id": "31",
+               "name": "Julius Plenz - Blog - statically linking dwm against X11 and XCB",
+               "type": "url",
+               "url": "https://blog.plenz.com/2011-08/statically-linking-dwm-against-x11-and-xcb.html"
+            }, {
+               "date_added": "13344451014761874",
+               "date_last_used": "0",
+               "guid": "a331ac27-bfbe-4078-8591-f07f7aac9878",
+               "id": "32",
+               "name": "Einar's blog",
+               "type": "url",
+               "url": "https://mostad.eu/"
+            }, {
+               "date_added": "13344451014762315",
+               "date_last_used": "0",
+               "guid": "903377e1-ee5d-4007-90b0-9477f323443c",
+               "id": "33",
+               "name": "UNIX is sublime",
+               "type": "url",
+               "url": "https://0x19.org/posts/2022-07-30.php"
+            }, {
+               "date_added": "13344451014762790",
+               "date_last_used": "0",
+               "guid": "44297364-7033-4a14-a4d9-4d152984b2f2",
+               "id": "34",
+               "name": "Resources",
+               "type": "url",
+               "url": "https://0x19.org/resources.php"
+            }, {
+               "date_added": "13344451014763204",
+               "date_last_used": "0",
+               "guid": "349354e4-5058-43e0-910a-79a43745cef0",
+               "id": "35",
+               "name": "Introduction",
+               "type": "url",
+               "url": "https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/intro.html#WHATIS"
+            }, {
+               "date_added": "13344451014763633",
+               "date_last_used": "0",
+               "guid": "800284ae-f6d9-496d-bc1f-75de4a035af2",
+               "id": "36",
+               "name": "Archive - sizeof(cat)",
+               "type": "url",
+               "url": "https://sizeof.cat/archive/"
+            }, {
+               "date_added": "13344451014764048",
+               "date_last_used": "0",
+               "guid": "34bfd1d7-3cb8-4581-9769-28ac69c13d1d",
+               "id": "37",
+               "name": "blog — icyphox",
+               "type": "url",
+               "url": "https://icyphox.sh/blog/"
+            }, {
+               "date_added": "13344451014764458",
+               "date_last_used": "0",
+               "guid": "4f85b5dd-4155-4b2b-9496-b6e3bd29812d",
+               "id": "38",
+               "name": "The quest to optimize productivity",
+               "type": "url",
+               "url": "https://icyphox.sh/blog/bujo/"
+            }, {
+               "date_added": "13344451014764882",
+               "date_last_used": "0",
+               "guid": "785aa4c8-e35d-4ced-a578-e4b0b05bc3f5",
+               "id": "39",
+               "name": "Mozilla Firefox security - sizeof(cat)",
+               "type": "url",
+               "url": "https://sizeof.cat/post/mozilla-firefox-security/"
+            }, {
+               "date_added": "13344451014765316",
+               "date_last_used": "0",
+               "guid": "2a3d8b18-d4ab-477f-b5fa-9cbde9aef18d",
+               "id": "40",
+               "name": "Articles tagged #security · sizeof(cat)",
+               "type": "url",
+               "url": "https://sizeof.cat/tags/security/"
+            }, {
+               "date_added": "13344451014765762",
+               "date_last_used": "0",
+               "guid": "9c439af7-77f1-4f6c-a58d-25d93c50c299",
+               "id": "41",
+               "name": "unixsheikh.com",
+               "type": "url",
+               "url": "https://unixsheikh.com/articles.html"
+            }, {
+               "date_added": "13344451014766175",
+               "date_last_used": "0",
+               "guid": "e5339046-3e11-4e5f-813b-d20bed0c8c96",
+               "id": "42",
+               "name": "No, your website is not a web app even if you call it so",
+               "type": "url",
+               "url": "https://unixsheikh.com/articles/no-your-website-is-not-a-webapp-even-if-you-call-it-so.html"
+            }, {
+               "date_added": "13344451014766657",
+               "date_last_used": "0",
+               "guid": "eab1740a-8f5e-4edd-bce4-413af5811923",
+               "id": "43",
+               "name": "/g/'s Good Sites",
+               "type": "url",
+               "url": "https://errno64.org/mirrors/goodsites.tech/"
+            }, {
+               "date_added": "13344451014767082",
+               "date_last_used": "0",
+               "guid": "542e9163-6e9f-4677-ba86-7a2659ab5b1f",
+               "id": "44",
+               "name": "Site is not secure",
+               "type": "url",
+               "url": "http://biglist.terraaeon.com/"
+            }, {
+               "date_added": "13344451014767495",
+               "date_last_used": "0",
+               "guid": "04c95595-72c9-4a1c-9743-2d33838712d1",
+               "id": "45",
+               "name": "Rust In A Nutshell : Nathaniel Crosby : Free Download, Borrow, and Streaming : Internet Archive",
+               "type": "url",
+               "url": "https://archive.org/details/rust-in-a-nutshell"
+            }, {
+               "date_added": "13344451014767964",
+               "date_last_used": "0",
+               "guid": "98b357ad-f3e3-4e31-9171-5af66ebaaec6",
+               "id": "46",
+               "name": "C, C++ Programming Tutorials - Cprogramming.com",
+               "type": "url",
+               "url": "https://www.cprogramming.com/tutorial.html"
+            }, {
+               "date_added": "13344451014768394",
+               "date_last_used": "0",
+               "guid": "398b7ab0-7a4c-45e3-9ae2-5beda51e71b7",
+               "id": "47",
+               "name": "C++ Tutorial - Introduction to C++ - Cprogramming.com",
+               "type": "url",
+               "url": "https://www.cprogramming.com/tutorial/lesson1.html"
+            }, {
+               "date_added": "13344451014768849",
+               "date_last_used": "0",
+               "guid": "2f672833-da00-4617-aa84-5f9a1feda60b",
+               "id": "48",
+               "name": "MetaGer: Privacy Protected Search & Find",
+               "type": "url",
+               "url": "https://metager.org/"
+            }, {
+               "date_added": "13344451014769286",
+               "date_last_used": "0",
+               "guid": "f1f3dc5c-8a28-483a-b6cd-00b153823ffa",
+               "id": "49",
+               "name": "blog jee - Mojeek Search",
+               "type": "url",
+               "url": "https://www.mojeek.com/search?q=blog+jee"
+            }, {
+               "date_added": "13344451014769716",
+               "date_last_used": "0",
+               "guid": "c5dd4a59-1e74-4fd9-8a96-aad3bfb18c86",
+               "id": "50",
+               "name": "Helmut's RAC / JEE Blog | Please use the menu bar to navigate through around 400 RAC / Linux / Virtualbox / Java EE articles !",
+               "type": "url",
+               "url": "https://www.hhutzler.de/blog/"
+            }, {
+               "date_added": "13344451014770197",
+               "date_last_used": "0",
+               "guid": "381b75e7-e46e-4fd2-8b0b-29f77766e152",
+               "id": "51",
+               "name": "Blog 10 - Tips for JEE Droppers to Prepare from Home",
+               "type": "url",
+               "url": "https://www.educlears.com/blog/tips-for-jee-droppers-to-prepare-from-home/"
+            }, {
+               "date_added": "13344451014770658",
+               "date_last_used": "0",
+               "guid": "a0ec502c-a1ad-4042-9ce2-7e85cf00fcd4",
+               "id": "52",
+               "name": "Posts · Kristof Kovacs ✈️",
+               "type": "url",
+               "url": "https://kkovacs.eu/posts/"
+            }, {
+               "date_added": "13344451014771077",
+               "date_last_used": "0",
+               "guid": "58266772-9d6a-4ff0-a369-91741b002768",
+               "id": "53",
+               "name": "Email Self-Defense - a guide to fighting surveillance with GnuPG encryption",
+               "type": "url",
+               "url": "https://emailselfdefense.fsf.org/en/"
+            } ],
+            "date_added": "13344451014747466",
+            "date_last_used": "0",
+            "date_modified": "13344451014771077",
+            "guid": "8717cc76-d4fa-4f15-8651-b68a5ddee3b1",
+            "id": "5",
+            "name": "New folder",
+            "type": "folder"
+         } ],
+         "date_added": "13344436109174667",
+         "date_last_used": "0",
+         "date_modified": "13344451014771527",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13344436109174669",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13344436109174672",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
