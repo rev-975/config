@@ -1,5 +1,6 @@
-fset classical=genre="Classical"
 q
+Q
+fset classical=genre="Classical"
 colorscheme zenburn
 colorscheme spotify
 colorscheme night

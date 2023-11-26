@@ -1,0 +1,117 @@
+Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 20:45 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 20:45 : exception: Failed to open audio output
+Nov 26 20:45 : player: played "Dreamcatcher-BEcause.mp3"
+Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:45 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 20:45 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 20:45 : exception: Failed to open audio output
+Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 20:46 : exception: Failed to open audio output
+Nov 26 20:46 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 20:46 : exception: Failed to open audio output
+Nov 26 20:46 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 20:46 : exception: Failed to open audio output
+Nov 26 20:46 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 20:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 20:46 : exception: Failed to open audio output
+Nov 26 23:10 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:10 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:12 : player: played "Dreamcatcher-BEcause.mp3"
+Nov 26 23:13 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:13 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:14 : exception: Failed to open audio output
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:15 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:15 : player: played "Dreamcatcher-BEcause.mp3"
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:15 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:16 : player: played "Dreamcatcher-BEcause.mp3"
+Nov 26 23:16 : output: Failed to open mixer for 'alsa': no such mixer control: PCM
+Nov 26 23:17 : player: played "Dreamcatcher-BEcause.mp3"
+Nov 26 23:17 : player: played "dodie-HateMyself.mp3"
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:17 : exception: Failed to open audio output
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:17 : exception: Failed to open audio output
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:17 : exception: Failed to open audio output
+sh: line 1: audiounit-pipe-out: command not found
+Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
+Nov 26 23:17 : exception: Failed to open audio output
+Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
+Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
+Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
+Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
+Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:19 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:19 : exception: Failed to open audio output
+Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:21 : player: played "dodie-HateMyself.mp3"
+Nov 26 23:22 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
+Nov 26 23:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Nov 26 23:22 : player: played "Dreamcatcher-BEcause.mp3"
+Nov 26 23:24 : player: played "Dreamcatcher-BEcause.mp3"
+Nov 26 23:27 : player: played "dodie-HateMyself.mp3"
+Nov 26 23:30 : player: played "369-JustLookatYou.mp3"
+Nov 26 23:32 : player: played "Bcalm,softy-timeswithyou.mp3"
+Nov 26 23:35 : player: played "bbno$-iseelondoniseefrance.mp3"
+Nov 26 23:37 : player: played "bbno$-edamame(feat.RichBrian).mp3"
+Nov 26 23:39 : player: played "BoBurnham-MicrowavePopcorn.mp3"
+Nov 26 23:40 : player: played "BoBurnham-Shit.mp3"
+Nov 26 23:42 : player: played "CodyKo,MattMiggz-Fiat.mp3"
+Nov 26 23:45 : player: played "DannyGonzalez,DrewGooden-WeAreNottheSamePerson.mp3"
+Nov 26 23:46 : player: played "Mitraz-Alfaazo.mp3"
+Nov 26 23:47 : exception: Access denied
+Nov 26 23:48 : exception: Bad song index
+Nov 26 23:48 : exception: Bad song index
+Nov 26 23:54 : player: played "DmitriShostakovich,AndréRieu,JohannStraussOrchestra-TheSecondWaltz,Op.99a.mp3"
+Nov 27 00:02 : player: played "ClaireRosinkranz-Hotel.mp3"
+Nov 27 00:06 : player: played "PLVTINUM-STRESSMEOUT.mp3"
+Nov 27 00:09 : player: played "MattMaeson-Cringe.mp3"
+Nov 27 00:11 : player: played "0to8,madeinnline-classicalphonk,p.2.mp3"
+Nov 27 00:19 : player: played "CemeterySun-Fly.mp3"
+Nov 27 00:23 : player: played "CigarettesAfterSex-K..mp3"

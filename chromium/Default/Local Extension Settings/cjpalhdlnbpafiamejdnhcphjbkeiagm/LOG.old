@@ -1,3 +1,14 @@
-2023/11/24-18:43:40.895 395abc Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2023/11/24-18:43:40.897 395abc Recovering log #1757
-2023/11/24-18:43:40.902 395abc Reusing old log /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/001757.log 
+2023/11/26-11:45:14.147 1a025b Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/11/26-11:45:14.149 1a025b Recovering log #1764
+2023/11/26-11:45:14.194 1a025b Level-0 table #1785: started
+2023/11/26-11:45:14.253 1a025b Level-0 table #1785: 2441503 bytes OK
+2023/11/26-11:45:14.264 1a025b Delete type=0 #1764
+2023/11/26-11:45:17.204 1a025b Compacting 1@0 + 3@1 files
+2023/11/26-11:45:17.359 1a025b Generated table #1787@0: 5 keys, 2431672 bytes
+2023/11/26-11:45:17.386 1a025b Generated table #1788@0: 4 keys, 383 bytes
+2023/11/26-11:45:17.387 1a025b Compacted 1@0 + 3@1 files => 2432055 bytes
+2023/11/26-11:45:17.399 1a025b compacted to: files[ 0 2 13 0 0 0 0 ]
+2023/11/26-11:45:17.401 1a025b Delete type=2 #1772
+2023/11/26-11:45:17.401 1a025b Delete type=2 #1785
+2023/11/26-11:45:17.401 1a025b Delete type=2 #1770
+2023/11/26-11:45:17.401 1a025b Delete type=2 #1771
