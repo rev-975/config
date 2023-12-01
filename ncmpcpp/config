@@ -12,13 +12,15 @@ cyclic_scrolling = "yes"
 # ui stuff
 user_interface = "alternative"
 progressbar_look = "─⊙┄"
-startup_screen = "media_library"
 autocenter_mode = "yes"
-
-
+selected_item_suffix = $9
+startup_screen = playlist
 song_list_format = "{$4  %t - }{%a}$R{$2 %l $9}"
-song_columns_list_format = "(60)[]{t|f} (7f)[green]{l} (30)[cyan]{a} "
+song_columns_list_format = "(60)[]{t|f} (7f)[green]{l} (30)[106]{a}"
 song_library_format = "{$6 %t}{(%l)}{$R $9}"
-
-
 song_status_format = "{{%a{ \"%b\"{ (%y)}} - }{%t}}|{%f}"
+default_find_mode = wrapped
+fetch_lyrics_for_current_song_in_background = no
+clock_display_seconds = yes
+display_volume_level = yes
+external_editor = nvim

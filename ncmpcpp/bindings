@@ -3,17 +3,22 @@ def_key "+"
 def_key "="
     volume_up
 
-def_key "j"
-    scroll_down
-def_key "k"
-    scroll_up
-    page_up
 def_key "h"
-    previous_column
-def_key "l"
-    next_column
-def_key "n"
-    next_found_item
-def_key "N"
-    previous_found_item
+  previous_column
 
+def_key "k"
+  scroll_up
+
+def_key "j"
+  scroll_down
+
+def_key "l"
+  next_column
+
+def_key "shift-up"
+  select_item
+  scroll_up
+
+def_key "shift-down"
+  select_item
+  scroll_down

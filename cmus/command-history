@@ -1,16 +1,34 @@
-q
-Q
-fset classical=genre="Classical"
-colorscheme zenburn
-colorscheme spotify
+add ~/pers/mus
+colorscheme dracula
 colorscheme night
 colorscheme jellybeans
+colorscheme green
+colorscheme amazon
+browser-up
+shell 
+colorscheme zenburn
+colorscheme xterm-white
+colorscheme spotify
+colorscheme solarized-dark
+colorscheme green-mono-88
+colorscheme gray-88
+q
+w
+W
+pl-create desi
+delete desi
+delete
+bind
+Delete
+del
+clear
+colorscheme default
+Ex
+Q
+fset classical=genre="Classical"
 colorscheme gruvbox-warm
 colorscheme 
 colorscheme gruvbox
-colorscheme dracula
-colorscheme default
-colorscheme amazon
 add ~/mus/
 colorscheme
 live-filter 
