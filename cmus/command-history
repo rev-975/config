@@ -1,39 +1,27 @@
-add ~/pers/mus
-colorscheme dracula
+add ~/pers/mus/rem/
+pl-create your self-worth is based on that one exam you tanked
+add ~/pers/mus/je
+pl-create inimitable and profound, a certain je ne sais quoi
+add ~/pers/mus/cold/
+pl-create cold eyes and colder gazes
+add ~/pers/mus/ins/
+pl-create merely insufferable and somewhat resenful
+add ~/pers/mus/metal/
+pl-create the metallic taste of blood
+add ~/pers/mus/synth/
+pl-create a synthesis of arrogance and perplexed incomprehension
 colorscheme night
-colorscheme jellybeans
-colorscheme green
-colorscheme amazon
-browser-up
-shell 
-colorscheme zenburn
-colorscheme xterm-white
-colorscheme spotify
-colorscheme solarized-dark
-colorscheme green-mono-88
-colorscheme gray-88
-q
-w
-W
-pl-create desi
-delete desi
-delete
-bind
-Delete
-del
-clear
-colorscheme default
-Ex
-Q
-fset classical=genre="Classical"
-colorscheme gruvbox-warm
-colorscheme 
-colorscheme gruvbox
-add ~/mus/
-colorscheme
-live-filter 
-colorscheme gruvbox-alt
-pl-create howling_vortex
-wq
-add ~/mus
-pl-create wordfucker_unlimited
+pl-rename hurling out brain noise into the howling vortex
+add ~/pers/mus/noise/
+pl-create hurling out brain noise into the void
+add ~/pers/mus/flam/
+pl-create flamboyant celery
+add ~/pers/mus/word/
+pl-create wordfucker unlimited
+add ~/pers/mus/clear/
+add ~/pers/mus/over/
+pl-create overdismissively flip
+add ~/pers/mus/rem
+pl-create clear eyes, clouded head
+add ~/pers/mus/fog/
+pl-create foggy days and foggy minds

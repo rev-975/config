@@ -1,6 +1,9 @@
-2023/11/22-16:26:45.525 1e49c5 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/22-16:26:45.527 1e49c5 Recovering log #98
-2023/11/22-16:26:45.536 1e49c5 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000098.log 
-2023/11/22-16:27:11.603 1e49c5 Level-0 table #104: started
-2023/11/22-16:27:11.669 1e49c5 Level-0 table #104: 2657436 bytes OK
-2023/11/22-16:27:11.684 1e49c5 Delete type=0 #98
+2023/12/19-20:04:47.630 1f0733 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/19-20:04:47.631 1f0733 Recovering log #123
+2023/12/19-20:04:47.641 1f0733 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000123.log 
+2023/12/19-20:04:50.567 1f0736 Compacting 1@1 + 1@2 files
+2023/12/19-20:04:50.597 1f0736 Generated table #126@1: 265 keys, 518853 bytes
+2023/12/19-20:04:50.598 1f0736 Compacted 1@1 + 1@2 files => 518853 bytes
+2023/12/19-20:04:50.608 1f0736 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/19-20:04:50.609 1f0736 Delete type=2 #124
+2023/12/19-20:04:50.609 1f0736 Delete type=2 #121

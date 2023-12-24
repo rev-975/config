@@ -1,38 +1,150 @@
-2023/11/26-11:54:08.443 1a3853 Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2023/11/26-11:54:08.451 1a3853 Recovering log #1786
-2023/11/26-11:54:08.451 1a3853 Reusing old log /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/001786.log 
-2023/11/26-11:54:33.225 1a3854 Level-0 table #1791: started
-2023/11/26-11:54:33.265 1a3854 Level-0 table #1791: 1520164 bytes OK
-2023/11/26-11:54:33.274 1a3854 Delete type=0 #1786
-2023/11/26-11:54:42.727 1a3854 Level-0 table #1793: started
-2023/11/26-11:54:42.759 1a3854 Level-0 table #1793: 1800407 bytes OK
-2023/11/26-11:54:42.769 1a3854 Delete type=0 #1790
-2023/11/26-11:54:47.302 1a3854 Level-0 table #1795: started
-2023/11/26-11:54:47.331 1a3854 Level-0 table #1795: 1526209 bytes OK
-2023/11/26-11:54:47.340 1a3854 Delete type=0 #1792
-2023/11/26-11:54:49.714 1a3854 Level-0 table #1797: started
-2023/11/26-11:54:49.747 1a3854 Level-0 table #1797: 2025250 bytes OK
-2023/11/26-11:54:49.756 1a3854 Delete type=0 #1794
-2023/11/26-11:54:49.757 1a3854 Compacting 4@0 + 2@1 files
-2023/11/26-11:54:49.808 1a3854 Generated table #1798@0: 7 keys, 2149162 bytes
-2023/11/26-11:54:49.868 1a3854 Generated table #1799@0: 4 keys, 2155750 bytes
-2023/11/26-11:54:49.915 1a3854 Generated table #1800@0: 6 keys, 2259035 bytes
-2023/11/26-11:54:50.027 1a3854 Generated table #1801@0: 4 keys, 1961166 bytes
-2023/11/26-11:54:50.054 1a3854 Generated table #1802@0: 7 keys, 703595 bytes
-2023/11/26-11:54:50.054 1a3854 Compacted 4@0 + 2@1 files => 9228708 bytes
-2023/11/26-11:54:50.063 1a3854 compacted to: files[ 0 5 13 0 0 0 0 ]
-2023/11/26-11:54:50.064 1a3854 Delete type=2 #1791
-2023/11/26-11:54:50.064 1a3854 Delete type=2 #1787
-2023/11/26-11:54:50.064 1a3854 Delete type=2 #1788
-2023/11/26-11:54:50.064 1a3854 Delete type=2 #1797
-2023/11/26-11:54:50.064 1a3854 Delete type=2 #1795
-2023/11/26-11:54:50.064 1a3854 Delete type=2 #1793
-2023/11/26-11:54:57.036 1a3854 Level-0 table #1804: started
-2023/11/26-11:54:57.094 1a3854 Level-0 table #1804: 3180686 bytes OK
-2023/11/26-11:54:57.104 1a3854 Delete type=0 #1796
-2023/11/26-11:55:05.015 1a3854 Level-0 table #1806: started
-2023/11/26-11:55:05.054 1a3854 Level-0 table #1806: 2511192 bytes OK
-2023/11/26-11:55:05.065 1a3854 Delete type=0 #1803
-2023/11/26-11:55:07.462 1a3854 Level-0 table #1808: started
-2023/11/26-11:55:07.504 1a3854 Level-0 table #1808: 1556602 bytes OK
-2023/11/26-11:55:07.514 1a3854 Delete type=0 #1805
+2023/12/23-21:57:17.954 a2c3b Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/12/23-21:57:17.956 a2c3b Recovering log #3052
+2023/12/23-21:57:17.956 a2c3b Reusing old log /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/003052.log 
+2023/12/23-22:59:06.252 a2c3b Level-0 table #3056: started
+2023/12/23-22:59:06.290 a2c3b Level-0 table #3056: 1921682 bytes OK
+2023/12/23-22:59:06.299 a2c3b Delete type=0 #3052
+2023/12/23-22:59:06.301 a2c3b Compacting 4@0 + 2@1 files
+2023/12/23-22:59:06.370 a2c3b Generated table #3057@0: 7 keys, 2806483 bytes
+2023/12/23-22:59:06.407 a2c3b Generated table #3058@0: 1 keys, 834786 bytes
+2023/12/23-22:59:06.572 a2c3b Generated table #3059@0: 3 keys, 6695052 bytes
+2023/12/23-22:59:06.623 a2c3b Generated table #3060@0: 1 keys, 3681423 bytes
+2023/12/23-22:59:06.680 a2c3b Generated table #3061@0: 1 keys, 3076691 bytes
+2023/12/23-22:59:06.680 a2c3b Level-0 table #3063: started
+2023/12/23-22:59:06.708 a2c3b Level-0 table #3063: 1390466 bytes OK
+2023/12/23-22:59:06.718 a2c3b Delete type=0 #3055
+2023/12/23-22:59:06.741 a2c3b Generated table #3064@0: 3 keys, 895914 bytes
+2023/12/23-22:59:06.741 a2c3b Compacted 4@0 + 2@1 files => 17990349 bytes
+2023/12/23-22:59:06.751 a2c3b compacted to: files[ 1 6 13 0 0 0 0 ]
+2023/12/23-22:59:06.751 a2c3b Delete type=2 #3039
+2023/12/23-22:59:06.752 a2c3b Delete type=2 #3053
+2023/12/23-22:59:06.752 a2c3b Delete type=2 #3045
+2023/12/23-22:59:06.752 a2c3b Delete type=2 #3043
+2023/12/23-22:59:06.752 a2c3b Delete type=2 #3038
+2023/12/23-22:59:06.752 a2c3b Delete type=2 #3056
+2023/12/23-22:59:06.758 a2c3b Compacting 1@1 + 6@2 files
+2023/12/23-22:59:06.809 a2c3b Generated table #3065@1: 9 keys, 2131160 bytes
+2023/12/23-22:59:06.865 a2c3b Generated table #3066@1: 6 keys, 2554672 bytes
+2023/12/23-22:59:06.934 a2c3b Generated table #3067@1: 7 keys, 2628509 bytes
+2023/12/23-22:59:06.997 a2c3b Generated table #3068@1: 6 keys, 2853525 bytes
+2023/12/23-22:59:07.062 a2c3b Generated table #3069@1: 6 keys, 2646365 bytes
+2023/12/23-22:59:07.154 a2c3b Generated table #3070@1: 9 keys, 3477181 bytes
+2023/12/23-22:59:07.154 a2c3b Compacted 1@1 + 6@2 files => 16291412 bytes
+2023/12/23-22:59:07.163 a2c3b compacted to: files[ 1 5 13 0 0 0 0 ]
+2023/12/23-22:59:07.164 a2c3b Delete type=2 #2985
+2023/12/23-22:59:07.164 a2c3b Delete type=2 #3057
+2023/12/23-22:59:07.164 a2c3b Delete type=2 #3051
+2023/12/23-22:59:07.164 a2c3b Delete type=2 #2984
+2023/12/23-22:59:07.164 a2c3b Delete type=2 #3049
+2023/12/23-22:59:07.164 a2c3b Delete type=2 #3048
+2023/12/23-22:59:07.164 a2c3b Delete type=2 #3050
+2023/12/23-22:59:07.168 a2c3b Compacting 1@1 + 1@2 files
+2023/12/23-22:59:07.195 a2c3b Generated table #3071@1: 1 keys, 834786 bytes
+2023/12/23-22:59:07.195 a2c3b Compacted 1@1 + 1@2 files => 834786 bytes
+2023/12/23-22:59:07.204 a2c3b compacted to: files[ 1 4 13 0 0 0 0 ]
+2023/12/23-22:59:07.204 a2c3b Delete type=2 #3058
+2023/12/23-22:59:07.205 a2c3b Delete type=2 #2988
+2023/12/23-22:59:07.205 a2c3b Compacting 1@1 + 2@2 files
+2023/12/23-22:59:07.278 a2c3b Generated table #3072@1: 9 keys, 2662492 bytes
+2023/12/23-22:59:07.530 a2c3b Generated table #3073@1: 7 keys, 6638367 bytes
+2023/12/23-22:59:07.532 a2c3b Compacted 1@1 + 2@2 files => 9300859 bytes
+2023/12/23-22:59:07.541 a2c3b compacted to: files[ 1 3 13 0 0 0 0 ]
+2023/12/23-22:59:07.542 a2c3b Delete type=2 #3059
+2023/12/23-22:59:07.543 a2c3b Delete type=2 #3012
+2023/12/23-22:59:07.543 a2c3b Delete type=2 #3011
+2023/12/23-23:01:11.567 a2c3b Level-0 table #3075: started
+2023/12/23-23:01:11.648 a2c3b Level-0 table #3075: 6209738 bytes OK
+2023/12/23-23:01:11.658 a2c3b Delete type=0 #3062
+2023/12/23-23:01:11.864 a2c3b Level-0 table #3077: started
+2023/12/23-23:01:11.921 a2c3b Level-0 table #3077: 4579049 bytes OK
+2023/12/23-23:01:11.930 a2c3b Delete type=0 #3074
+2023/12/23-23:01:12.284 a2c3b Level-0 table #3079: started
+2023/12/23-23:01:12.303 a2c3a Current memtable full; waiting...
+2023/12/23-23:01:12.341 a2c3b Level-0 table #3079: 4117025 bytes OK
+2023/12/23-23:01:12.351 a2c3b Delete type=0 #3076
+2023/12/23-23:01:12.354 a2c3b Compacting 4@0 + 3@1 files
+2023/12/23-23:01:12.373 a2c3b Level-0 table #3081: started
+2023/12/23-23:01:12.416 a2c3b Level-0 table #3081: 3080341 bytes OK
+2023/12/23-23:01:12.425 a2c3b Delete type=0 #3078
+2023/12/23-23:01:12.454 a2c3b Generated table #3082@0: 4 keys, 804101 bytes
+2023/12/23-23:01:12.543 a2c3b Generated table #3083@0: 3 keys, 5743379 bytes
+2023/12/23-23:01:12.590 a2c3b Generated table #3084@0: 1 keys, 3681543 bytes
+2023/12/23-23:01:12.654 a2c3b Generated table #3085@0: 1 keys, 4575326 bytes
+2023/12/23-23:01:12.683 a2c3b Generated table #3086@0: 8 keys, 1295202 bytes
+2023/12/23-23:01:12.683 a2c3b Compacted 4@0 + 3@1 files => 16099551 bytes
+2023/12/23-23:01:12.692 a2c3b compacted to: files[ 1 5 13 0 0 0 0 ]
+2023/12/23-23:01:12.692 a2c3b Delete type=2 #3061
+2023/12/23-23:01:12.692 a2c3b Delete type=2 #3075
+2023/12/23-23:01:12.692 a2c3b Delete type=2 #3063
+2023/12/23-23:01:12.692 a2c3b Delete type=2 #3079
+2023/12/23-23:01:12.692 a2c3b Delete type=2 #3077
+2023/12/23-23:01:12.692 a2c3b Delete type=2 #3060
+2023/12/23-23:01:12.692 a2c3b Delete type=2 #3064
+2023/12/23-23:01:12.704 a2c3b Moved #3084 to level-2 3681543 bytes OK: files[ 1 4 14 0 0 0 0 ]
+2023/12/23-23:01:12.704 a2c3b Compacting 1@1 + 1@2 files
+2023/12/23-23:01:12.779 a2c3b Generated table #3087@1: 1 keys, 4575326 bytes
+2023/12/23-23:01:12.779 a2c3b Compacted 1@1 + 1@2 files => 4575326 bytes
+2023/12/23-23:01:12.788 a2c3b compacted to: files[ 1 3 14 0 0 0 0 ]
+2023/12/23-23:01:12.788 a2c3b Delete type=2 #3046
+2023/12/23-23:01:12.789 a2c3b Delete type=2 #3085
+2023/12/23-23:01:13.008 a2c3b Level-0 table #3089: started
+2023/12/23-23:01:13.070 a2c3b Level-0 table #3089: 5063808 bytes OK
+2023/12/23-23:01:13.080 a2c3b Delete type=0 #3080
+2023/12/23-23:01:13.479 a2c3b Level-0 table #3091: started
+2023/12/23-23:01:13.496 a2c3a Current memtable full; waiting...
+2023/12/23-23:01:13.533 a2c3b Level-0 table #3091: 4180687 bytes OK
+2023/12/23-23:01:13.544 a2c3b Delete type=0 #3088
+2023/12/23-23:01:13.548 a2c3b Level-0 table #3093: started
+2023/12/23-23:01:13.614 a2c3b Level-0 table #3093: 3081139 bytes OK
+2023/12/23-23:01:13.625 a2c3b Delete type=0 #3090
+2023/12/23-23:01:13.630 a2c3b Compacting 4@0 + 3@1 files
+2023/12/23-23:01:13.713 a2c3b Generated table #3094@0: 4 keys, 804094 bytes
+2023/12/23-23:01:13.870 a2c3b Generated table #3095@0: 3 keys, 5743392 bytes
+2023/12/23-23:01:13.953 a2c3b Generated table #3096@0: 1 keys, 3681151 bytes
+2023/12/23-23:01:14.043 a2c3b Generated table #3097@0: 1 keys, 4566616 bytes
+2023/12/23-23:01:14.114 a2c3b Generated table #3098@0: 1 keys, 3077377 bytes
+2023/12/23-23:01:14.165 a2c3b Generated table #3099@0: 10 keys, 1827381 bytes
+2023/12/23-23:01:14.165 a2c3b Compacted 4@0 + 3@1 files => 19700011 bytes
+2023/12/23-23:01:14.174 a2c3b compacted to: files[ 0 6 14 0 0 0 0 ]
+2023/12/23-23:01:14.175 a2c3b Delete type=2 #3091
+2023/12/23-23:01:14.175 a2c3b Delete type=2 #3093
+2023/12/23-23:01:14.175 a2c3b Delete type=2 #3086
+2023/12/23-23:01:14.176 a2c3b Delete type=2 #3083
+2023/12/23-23:01:14.176 a2c3b Delete type=2 #3089
+2023/12/23-23:01:14.176 a2c3b Delete type=2 #3081
+2023/12/23-23:01:14.176 a2c3b Delete type=2 #3082
+2023/12/23-23:01:14.193 a2c3b Moved #3098 to level-2 3077377 bytes OK: files[ 0 5 15 0 0 0 0 ]
+2023/12/23-23:01:14.194 a2c3b Compacting 1@1 + 1@2 files
+2023/12/23-23:01:14.263 a2c3b Generated table #3100@1: 33 keys, 1954176 bytes
+2023/12/23-23:01:14.263 a2c3b Compacted 1@1 + 1@2 files => 1954176 bytes
+2023/12/23-23:01:14.273 a2c3b compacted to: files[ 0 4 15 0 0 0 0 ]
+2023/12/23-23:01:14.274 a2c3b Delete type=2 #3099
+2023/12/23-23:01:14.274 a2c3b Delete type=2 #3047
+2023/12/23-23:01:14.276 a2c3b Compacting 1@1 + 8@2 files
+2023/12/23-23:01:14.373 a2c3b Generated table #3101@1: 9 keys, 2131076 bytes
+2023/12/23-23:01:14.450 a2c3b Generated table #3102@1: 6 keys, 2554672 bytes
+2023/12/23-23:01:14.559 a2c3b Generated table #3103@1: 7 keys, 2628509 bytes
+2023/12/23-23:01:14.656 a2c3b Generated table #3104@1: 6 keys, 2853525 bytes
+2023/12/23-23:01:14.729 a2c3b Generated table #3105@1: 6 keys, 2646365 bytes
+2023/12/23-23:01:14.860 a2c3b Generated table #3106@1: 9 keys, 3477181 bytes
+2023/12/23-23:01:14.934 a2c3b Generated table #3107@1: 8 keys, 2109520 bytes
+2023/12/23-23:01:15.004 a2c3b Generated table #3108@1: 9 keys, 2168062 bytes
+2023/12/23-23:01:15.004 a2c3b Compacted 1@1 + 8@2 files => 20568910 bytes
+2023/12/23-23:01:15.013 a2c3b compacted to: files[ 0 3 15 0 0 0 0 ]
+2023/12/23-23:01:15.014 a2c3b Delete type=2 #3070
+2023/12/23-23:01:15.014 a2c3b Delete type=2 #3069
+2023/12/23-23:01:15.014 a2c3b Delete type=2 #2986
+2023/12/23-23:01:15.014 a2c3b Delete type=2 #3094
+2023/12/23-23:01:15.015 a2c3b Delete type=2 #3068
+2023/12/23-23:01:15.015 a2c3b Delete type=2 #3065
+2023/12/23-23:01:15.015 a2c3b Delete type=2 #3066
+2023/12/23-23:01:15.015 a2c3b Delete type=2 #2987
+2023/12/23-23:01:15.015 a2c3b Delete type=2 #3067
+2023/12/23-23:01:15.021 a2c3b Compacting 1@1 + 2@2 files
+2023/12/23-23:01:15.107 a2c3b Generated table #3109@1: 9 keys, 2662492 bytes
+2023/12/23-23:01:15.330 a2c3b Generated table #3110@1: 7 keys, 6637435 bytes
+2023/12/23-23:01:15.333 a2c3b Compacted 1@1 + 2@2 files => 9299927 bytes
+2023/12/23-23:01:15.342 a2c3b compacted to: files[ 0 2 15 0 0 0 0 ]
+2023/12/23-23:01:15.343 a2c3b Delete type=2 #3095
+2023/12/23-23:01:15.343 a2c3b Delete type=2 #3073
+2023/12/23-23:01:15.343 a2c3b Delete type=2 #3072

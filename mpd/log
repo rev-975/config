@@ -1,303 +1,402 @@
-Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 20:45 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 20:45 : exception: Failed to open audio output
-Nov 26 20:45 : player: played "Dreamcatcher-BEcause.mp3"
-Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:45 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 20:45 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 20:45 : exception: Failed to open audio output
-Nov 26 20:45 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 20:46 : exception: Failed to open audio output
-Nov 26 20:46 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 20:46 : exception: Failed to open audio output
-Nov 26 20:46 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 20:46 : exception: Failed to open audio output
-Nov 26 20:46 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 20:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 20:46 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 20:46 : exception: Failed to open audio output
-Nov 26 23:10 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:10 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:10 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:12 : player: played "Dreamcatcher-BEcause.mp3"
-Nov 26 23:13 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:13 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:13 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:14 : exception: Failed to open audio output
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:14 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:14 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:15 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:15 : player: played "Dreamcatcher-BEcause.mp3"
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:15 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:15 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:16 : player: played "Dreamcatcher-BEcause.mp3"
-Nov 26 23:16 : output: Failed to open mixer for 'alsa': no such mixer control: PCM
-Nov 26 23:17 : player: played "Dreamcatcher-BEcause.mp3"
-Nov 26 23:17 : player: played "dodie-HateMyself.mp3"
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:17 : exception: Failed to open audio output
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:17 : exception: Failed to open audio output
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:17 : exception: Failed to open audio output
-sh: line 1: audiounit-pipe-out: command not found
-Nov 26 23:17 : output: Failed to play on "pipe" (pipe): Write error on pipe: Broken pipe
-Nov 26 23:17 : exception: Failed to open audio output
-Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
-Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
-Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
-Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:18 : player: played "dodie-HateMyself.mp3"
-Nov 26 23:18 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:19 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:19 : exception: Failed to open audio output
-Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:19 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:21 : player: played "dodie-HateMyself.mp3"
-Nov 26 23:22 : exception: Failed to enable output "PipeWire" (pulse); pa_context_connect() has failed: Connection refused
-Nov 26 23:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 26 23:22 : player: played "Dreamcatcher-BEcause.mp3"
-Nov 26 23:24 : player: played "Dreamcatcher-BEcause.mp3"
-Nov 26 23:27 : player: played "dodie-HateMyself.mp3"
-Nov 26 23:30 : player: played "369-JustLookatYou.mp3"
-Nov 26 23:32 : player: played "Bcalm,softy-timeswithyou.mp3"
-Nov 26 23:35 : player: played "bbno$-iseelondoniseefrance.mp3"
-Nov 26 23:37 : player: played "bbno$-edamame(feat.RichBrian).mp3"
-Nov 26 23:39 : player: played "BoBurnham-MicrowavePopcorn.mp3"
-Nov 26 23:40 : player: played "BoBurnham-Shit.mp3"
-Nov 26 23:42 : player: played "CodyKo,MattMiggz-Fiat.mp3"
-Nov 26 23:45 : player: played "DannyGonzalez,DrewGooden-WeAreNottheSamePerson.mp3"
-Nov 26 23:46 : player: played "Mitraz-Alfaazo.mp3"
-Nov 26 23:47 : exception: Access denied
-Nov 26 23:48 : exception: Bad song index
-Nov 26 23:48 : exception: Bad song index
-Nov 26 23:54 : player: played "DmitriShostakovich,AndréRieu,JohannStraussOrchestra-TheSecondWaltz,Op.99a.mp3"
-Nov 27 00:02 : player: played "ClaireRosinkranz-Hotel.mp3"
-Nov 27 00:06 : player: played "PLVTINUM-STRESSMEOUT.mp3"
-Nov 27 00:09 : player: played "MattMaeson-Cringe.mp3"
-Nov 27 00:11 : player: played "0to8,madeinnline-classicalphonk,p.2.mp3"
-Nov 27 00:19 : player: played "CemeterySun-Fly.mp3"
-Nov 27 00:23 : player: played "CigarettesAfterSex-K..mp3"
-Nov 27 00:25 : player: played "blackbear,TinyMeatGang-shortkingsanthem.mp3"
-Nov 27 01:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 01:58 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 01:58 : player: problems opening audio device while playing "369-JustLookatYou.mp3"
-Nov 27 01:58 : player: played "369-JustLookatYou.mp3"
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : player: problems opening audio device while playing "bbno$-edamame(feat.RichBrian).mp3"
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : player: played "bbno$-edamame(feat.RichBrian).mp3"
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : player: problems opening audio device while playing "bbno$-edamame(feat.RichBrian).mp3"
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : player: played "BoBurnham-1985.mp3"
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : player: problems opening audio device while playing "BoBurnham-Shit.mp3"
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:41 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : player: played "BoBurnham-Shit.mp3"
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : player: played "0to8,madeinnline-classicalphonk,p.2.mp3"
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:42 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : player: played "0to8,madeinnline-classicalphonk,p.2.mp3"
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : player: problems opening audio device while playing "Dreamcatcher-BEcause.mp3"
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:43 : player: played "Dreamcatcher-BEcause.mp3"
-Nov 27 07:44 : state_file: Loading state file /home/etheroot/.config/mpd/state
-Nov 27 07:44 : event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
-Nov 27 07:44 : state_file: Saving state file /home/etheroot/.config/mpd/state
-Nov 27 07:44 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:44 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:44 : player: problems opening audio device while playing "369-JustLookatYou.mp3"
-Nov 27 07:44 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:44 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:45 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 07:50 : player: played "PhoebeBridgers-IKnowTheEnd.mp3"
-Nov 27 07:55 : player: played "PhoebeBridgers-WaitingRoom.mp3"
-Nov 27 07:56 : player: played "floracash-You'reSomebodyElse.mp3"
-Nov 27 07:59 : player: played "369-JustLookatYou.mp3"
-Nov 27 08:01 : player: played "Bcalm,softy-timeswithyou.mp3"
-Nov 27 08:03 : player: played "BenjaminMartins-EscapingTime.mp3"
-Nov 27 08:05 : player: played "IchikaNito-Homesick.mp3"
-Nov 27 08:07 : player: played "IchikaNito-Isolation.mp3"
-Nov 27 11:34 : player: played "TaylorSwift-goldrush.mp3"
-Nov 27 11:37 : player: played "TaylorSwift-ivy.mp3"
-Nov 27 11:37 : exception: Not playing
-Nov 27 11:37 : exception: Not playing
-Nov 27 11:46 : player: played "TaylorSwift-rightwhereyouleftme-bonustrack.mp3"
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : player: problems opening audio device while playing "IsaacDunbar-fanbehavior.mp3"
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 27 11:46 : player: played "IsaacDunbar-fanbehavior.mp3"
-Nov 27 17:18 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 27 17:19 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 27 17:21 : player: played "Royal&theSerpent-overwhelmed.mp3"
-Nov 27 17:21 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 27 17:21 : player: played "Lorde-BuzzcutSeason.mp3"
-Nov 27 17:21 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 27 17:22 : player: played "Lorde-BuzzcutSeason.mp3"
-Nov 27 17:22 : player: played "Royal&theSerpent-overwhelmed.mp3"
-Nov 27 17:22 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 27 17:23 : exception: Failed to open audio output
-Nov 27 17:23 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 27 17:26 : player: played "Lorde-BuzzcutSeason.mp3"
-Nov 27 22:34 : output: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 27 22:35 : player: played "Lorde-BuzzcutSeason.mp3"
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : player: problems opening audio device while playing "Lorde-BuzzcutSeason.mp3"
-Nov 29 10:17 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-Nov 29 10:17 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
-WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
-WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
-WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
-WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Dec 19 18:48 : update: added /LudovicoEinaudi,DanielHope,IVirtuosiItaliani-Experience.mp3
+Dec 19 18:48 : update: added /Waterparks-Numb.mp3
+Dec 19 18:48 : update: added /ArcticMonkeys-505.mp3
+Dec 19 18:48 : update: added /TheLocalTrain-DilMere.mp3
+Dec 19 18:48 : update: added /LanaDelRey-Cola.mp3
+Dec 19 18:48 : update: added /TaylorSwift-22.mp3
+Dec 19 18:48 : update: added /DannyGonzalez-IGhostedKevinJonas.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-floatingpoint.mp3
+Dec 19 18:48 : update: added /JaymesYoung-FeelSomething.mp3
+Dec 19 18:48 : update: added /INNDRIVE-ShakeIt-Extended.mp3
+Dec 19 18:48 : update: added /Meshuggah-IntoDecay.mp3
+Dec 19 18:48 : update: added /BoBurnham-MicrowavePopcorn.mp3
+Dec 19 18:48 : update: added /BenjaminMartins-EscapingTime.mp3
+Dec 19 18:48 : update: added /boygenius,JulienBaker,PhoebeBridgers,LucyDacus-NotStrongEnough.mp3
+Dec 19 18:48 : update: added /Mitraz-Muskurahat.mp3
+Dec 19 18:48 : update: added /NOTD,shymartin-KeepYouMine.mp3
+Dec 19 18:48 : update: added /EthelCain-Crush.mp3
+Dec 19 18:48 : update: added /NothingButThieves-IfIWereYou.mp3
+Dec 19 18:48 : update: added /CodyKo,MattMiggz-Fiat.mp3
+Dec 19 18:48 : update: added /CraigArmstrong,CeciliaWeston-IfYouShouldFall.mp3
+Dec 19 18:48 : update: added /CharlotteSands-Dress.mp3
+Dec 19 18:48 : update: added /PHOROMANE-FIGHTTOSHIT.mp3
+Dec 19 18:48 : update: added /Waterparks-SnowGlobe.mp3
+Dec 19 18:48 : update: added /Polyphia-Memory.mp3
+Dec 19 18:48 : update: added /JONY-Небесныерозы.mp3
+Dec 19 18:48 : update: added /SmyangPiano-MagicShop.mp3
+Dec 19 18:48 : update: added /bbno$-edamame(feat.RichBrian).mp3
+Dec 19 18:48 : update: added /BrianCrain-AttheIvyGate.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-rootkit.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-SegmentationFault.mp3
+Dec 19 18:48 : update: added /AlecBenjamin-BoyInTheBubble.mp3
+Dec 19 18:48 : update: added /Alexander23,JeremyZucker-Nothing'stheSame.mp3
+Dec 19 18:48 : update: added /MattMaeson-Cringe.mp3
+Dec 19 18:48 : update: added /YungGravy-oops!.mp3
+Dec 19 18:48 : update: added /Meshuggah-OurRageWon'tDie.mp3
+Dec 19 18:48 : update: added /Polyphia,JakubZytecki-TheJungle.mp3
+Dec 19 18:48 : update: added /OssieWoods-ReminiscenceOfInnocence.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-overclock.mp3
+Dec 19 18:48 : update: added /DVRST-Slapper.mp3
+Dec 19 18:48 : update: added /JulienBaker,PhoebeBridgers,LucyDacus-Me&MyDog.mp3
+Dec 19 18:48 : update: added /Thexx-Intro.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-floatingpoint-DrumcorpsRemix.mp3
+Dec 19 18:48 : update: added /KatyPerry-LastFridayNight(T.G.I.F.).mp3
+Dec 19 18:48 : update: added /Airways-RecklessTongue.mp3
+Dec 19 18:48 : update: added /TaylorSwift-Paris.mp3
+Dec 19 18:48 : update: added /Weathers-C'estlavie.mp3
+Dec 19 18:48 : update: added /AlexandreDesplat,LondonSymphonyOrchestra-Enigma.mp3
+Dec 19 18:48 : update: added /TAEMIN-Advice.mp3
+Dec 19 18:48 : update: added /Lorde-BuzzcutSeason.mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-Absinthe.mp3
+Dec 19 18:48 : update: added /IsaacDunbar-fanbehavior.mp3
+Dec 19 18:48 : update: added /JONY-Мирсошёлсума.mp3
+Dec 19 18:48 : update: added /SmyangPiano-PiedPiper.mp3
+Dec 19 18:48 : update: added /Deafheaven-Irresistible.mp3
+Dec 19 18:48 : update: added /LanaDelRey-MoneyPowerGlory.mp3
+Dec 19 18:48 : update: added /HAUSER-RiverFlowsinYou.mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-MadIQs.mp3
+Dec 19 18:48 : update: added /Meshuggah-BytheTon.mp3
+Dec 19 18:48 : update: added /0to8,madeinnline-classicalphonk,p.2.mp3
+Dec 19 18:48 : update: added /TheBlueStones-BeMyFire.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-Decompilation.mp3
+Dec 19 18:48 : update: added /Pritam,BennyDayal,ShefaliAlvares-BadtameezDil.mp3
+Dec 19 18:48 : update: added /BeachWeather-Sex,Drugs,Etc..mp3
+Dec 19 18:48 : update: added /TwoFeet-IFeelLikeI'mDrowning.mp3
+Dec 19 18:48 : update: added /Polyphia-MoodSwing.mp3
+Dec 19 18:48 : update: added /MistaPlaya-ENEMYANDREVENGE.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-trojans(hardmode).mp3
+Dec 19 18:48 : update: added /Meshuggah-BorninDissonance.mp3
+Dec 19 18:48 : update: added /PVRIS-DeadWeight.mp3
+Dec 19 18:48 : update: added /Mitraz-Akhiyaan.mp3
+Dec 19 18:48 : update: added /TaylorSwift-ivy.mp3
+Dec 19 18:48 : update: added /Waterparks-StupidforYou.mp3
+Dec 19 18:48 : update: added /WhyDon'tWe-CometoBrazil.mp3
+Dec 19 18:48 : update: added /LordHuron-MeetMeInTheWoods.mp3
+Dec 19 18:48 : update: added /PLVTINUM-COFFIN.mp3
+Dec 19 18:48 : update: added /TinyMeatGang-NoFlex.mp3
+Dec 19 18:48 : update: added /Betcha-July.mp3
+Dec 19 18:48 : update: added /TheNextStep-Flying.mp3
+Dec 19 18:48 : update: added /girli-MoreThanaFriend.mp3
+Dec 19 18:48 : update: added /TomCardy-RedFlags(feat.Montaigne).mp3
+Dec 19 18:48 : update: added /NothingButThieves-YouKnowMeTooWell.mp3
+Dec 19 18:48 : update: added /half•alive-Nobody(feat.dodie).mp3
+Dec 19 18:48 : update: added /Deafheaven-ThePecanTree.mp3
+Dec 19 18:48 : update: added /SmyangPiano,tamagopalette-Euphoria-LofiEdit.mp3
+Dec 19 18:48 : update: added /carwash-striptease.mp3
+Dec 19 18:48 : update: added /FabrizioPaterlini-Ruedestroisfrères.mp3
+Dec 19 18:48 : update: added /HowardHarper-Barnes-TheEnglishAffair.mp3
+Dec 19 18:48 : update: added /369-JustLookatYou.mp3
+Dec 19 18:48 : update: added /Polyphia-Finale.mp3
+Dec 19 18:48 : update: added /Lorde-MoodRing.mp3
+Dec 19 18:48 : update: added /NOTD,AstridS-IDon'tKnowWhy.mp3
+Dec 19 18:48 : update: added /LanaDelRey-FuckitIloveyou.mp3
+Dec 19 18:48 : update: added /The1975-BeMyMistake.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-userspace.mp3
+Dec 19 18:48 : update: added /AnuvJain-Gul.mp3
+Dec 19 18:48 : update: added /bbno$-robertpatekson.mp3
+Dec 19 18:48 : update: added /TinyMeatGang-Sofia.mp3
+Dec 19 18:48 : update: added /Deafheaven-DreamHouse.mp3
+Dec 19 18:48 : update: added /PLVTINUM-STRESSMEOUT.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-userspace-VolkorXRemix.mp3
+Dec 19 18:48 : update: added /TwentyOnePilots-NicoandtheNiners.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-shellcode.mp3
+Dec 19 18:48 : update: added /TaylorSwift-goldrush.mp3
+Dec 19 18:48 : update: added /dodie-GotWeird.mp3
+Dec 19 18:48 : update: added /Dreamcatcher-BEcause.mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-KissGoodnight.mp3
+Dec 19 18:48 : update: added /SmyangPiano-FakeLove.mp3
+Dec 19 18:48 : update: added /AramKhachaturian,LondonSymphonyOrchestra,StanleyBlack-Masquerade-BalletSuite-1.Waltz.mp3
+Dec 19 18:48 : update: added /Pritam,VishalDadlani,ShalmaliKholgade-BalamPichkari.mp3
+Dec 19 18:48 : update: added /half•alive-Summerland.mp3
+Dec 19 18:48 : update: added /EzioBosso-Rain,inYourBlackEyes.mp3
+Dec 19 18:48 : update: added /DVRST-CloseEyes.mp3
+Dec 19 18:48 : update: added /NothingButThieves-Futureproof.mp3
+Dec 19 18:48 : update: added /FelixMendelssohn,MaximVengerov,KurtMasur,Gewandhausorchester-Mendelssohn-ViolinConcertoinEMinor,Op.64,MWVO14-I.Allegromoltoappassionato.mp3
+Dec 19 18:48 : update: added /ConanGray-TheCutThatAlwaysBleeds.mp3
+Dec 19 18:48 : update: added /Bleachers-Don'tTakeTheMoney.mp3
+Dec 19 18:48 : update: added /SufjanStevens-JohnMyBeloved.mp3
+Dec 19 18:48 : update: added /Bcalm,softy-timeswithyou.mp3
+Dec 19 18:48 : update: added /Dayglow-HotRod.mp3
+Dec 19 18:48 : update: added /The1975-SomebodyElse.mp3
+Dec 19 18:48 : update: added /Polyphia,AaronMarshall-SweetTea.mp3
+Dec 19 18:48 : update: added /TheUnlikelyCandidates-Novocaine.mp3
+Dec 19 18:48 : update: added /LanaDelRey-FuckedMyWayUpToTheTop.mp3
+Dec 19 18:48 : update: added /AbelKorzeniowski-DanceForMeWallis.mp3
+Dec 19 18:48 : update: added /Florence+TheMachine-NoLight,NoLight.mp3
+Dec 19 18:48 : update: added /MAMAMOO-HIP.mp3
+Dec 19 18:48 : update: added /BoBurnham-1985.mp3
+Dec 19 18:48 : update: added /DVRST-CloseEyes-SpedUp.mp3
+Dec 19 18:48 : update: added /SEVENTEEN-Rockwithyou.mp3
+Dec 19 18:48 : update: added /BrianCrain-SongforSienna.mp3
+Dec 19 18:48 : update: added /TinyMeatGang-BrokeBitch.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-pointers.mp3
+Dec 19 18:48 : update: added /PhoebeBridgers-Punisher.mp3
+Dec 19 18:48 : update: added /NothingButThieves-CanYouAffordtoBeAnIndividual.mp3
+Dec 19 18:48 : update: added /PeterGundry-TheVampireMasquerade.mp3
+Dec 19 18:48 : update: added /SecessionStudios,GregDombrowski-QueenoftheDamned.mp3
+Dec 19 18:48 : update: added /SecessionStudios-TheUntold.mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-NewInvention.mp3
+Dec 19 18:48 : update: added /SydneySprague,DanielleDurack-objectpermanence.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-Multithreading.mp3
+Dec 19 18:48 : update: added /JohannesBornlöf-NocturnalWaltz.mp3
+Dec 19 18:48 : update: added /bbno$-iseelondoniseefrance.mp3
+Dec 19 18:48 : update: added /BTS-Blue&Grey.mp3
+Dec 19 18:48 : update: added /SabrinaCarpenter-Why.mp3
+Dec 19 18:48 : update: added /Meshuggah-Nostrum.mp3
+Dec 19 18:48 : update: added /lovelytheband-broken.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-ObjectResurrection.mp3
+Dec 19 18:48 : update: added /ClaireRosinkranz-Hotel.mp3
+Dec 19 18:48 : update: added /TaylorSwift-rightwhereyouleftme-bonustrack.mp3
+Dec 19 18:48 : update: added /NOEL-Crow.mp3
+Dec 19 18:48 : update: added /Polyphia,NickSampson-Hourglass.mp3
+Dec 19 18:48 : update: added /Meshuggah-ViolentSleepofReason.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-InlineAssembly.mp3
+Dec 19 18:48 : update: added /bbno$,YungGravy-shiningonmyex.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-Readonly.mp3
+Dec 19 18:48 : update: added /RIOPY-WydenDown.mp3
+Dec 19 18:48 : update: added /Polyphia,JasonRichardson-Aviator.mp3
+Dec 19 18:48 : update: added /YungGravy-C’estLaVie(withbbno$&RichBrian).mp3
+Dec 19 18:48 : update: added /WolfgangAmadeusMozart,ConcertoKöln,WernerEhrhardt-SixGermanDances,K.571-No.1inD.mp3
+Dec 19 18:48 : update: added /PyotrIlyichTchaikovsky,JosefSakonov,LondonFestivalOrchestra-Valsesentimentale,Op.51,No.6.mp3
+Dec 19 18:48 : update: added /Fink-LookingTooClosely.mp3
+Dec 19 18:48 : update: added /MyChemicalRomance-FamousLastWords.mp3
+Dec 19 18:48 : update: added /AlexandreDesplat,LondonSymphonyOrchestra-TheImitationGame.mp3
+Dec 19 18:48 : update: added /FrédéricChopin,ParkEunShik-NocturneNo.1inB-FlatMinor,Op.9No.1.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-doubledataratesynchronousdynamicrandomaccessmemory.mp3
+Dec 19 18:48 : update: added /YungGravy-DancingInTheRain.mp3
+Dec 19 18:48 : update: added /LanaDelRey-PrettyWhenYouCry.mp3
+Dec 19 18:48 : update: added /RIOPY-ILoveYou.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-bruteforce.mp3
+Dec 19 18:48 : update: added /HaddadiVonEngst-Run.mp3
+Dec 19 18:48 : update: added /FINNEAS-Can'tWaitToBeDead.mp3
+Dec 19 18:48 : update: added /TaylorSwift-You'reOnYourOwn,Kid.mp3
+Dec 19 18:48 : update: added /Meshuggah-Monstrocity.mp3
+Dec 19 18:48 : update: added /YONAKA-CallMeaSaint.mp3
+Dec 19 18:48 : update: added /AlexandreDesplat,LondonSymphonyOrchestra-FarewelltoChristopher.mp3
+Dec 19 18:48 : update: added /HansZimmer-DayOne(InterstellarTheme).mp3
+Dec 19 18:48 : update: added /FridayPilotsClub-EndofIt.mp3
+Dec 19 18:48 : update: added /MoisésNieto-MysteryofLoveVisionsofGideon(From'CallMebyYourName').mp3
+Dec 19 18:48 : update: added /Waterparks-HighDefinition.mp3
+Dec 19 18:48 : update: added /CemeterySun-Fly.mp3
+Dec 19 18:48 : update: added /Waterparks-FUCKABOUTIT(feat.blackbear).mp3
+Dec 19 18:48 : update: added /TheAlgorithm-runtime.mp3
+Dec 19 18:48 : update: added /Deafheaven-Windows.mp3
+Dec 19 18:48 : update: added /TaylorSwift-PaperRings.mp3
+Dec 19 18:48 : update: added /FORGOTTENAGE-EndoftheWorld.mp3
+Dec 19 18:48 : update: added /DPRIAN-Mood.mp3
+Dec 19 18:48 : update: added /HarryStyles-Carolina.mp3
+Dec 19 18:48 : update: added /JulienBaker-BalladofBigNothing.mp3
+Dec 19 18:48 : update: added /Zaeden-kyakaroon.mp3
+Dec 19 18:48 : update: added /SachetTandon,Sachet-Parampara-Bekhayali(From'KabirSingh').mp3
+Dec 19 18:48 : update: added /AnuvJain-Baarishein.mp3
+Dec 19 18:48 : update: added /MaxRichter,MariSamuelsen,KonzerthausorchesterBerlin,JonathanStockhammer-November.mp3
+Dec 19 18:48 : update: added /NovoAmor,Lowswimmer-Alps.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-CryptographicMemory.mp3
+Dec 19 18:48 : update: added /JohannesBornlöf-Let'sRunAwayTogether.mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-SugarPills.mp3
+Dec 19 18:48 : update: added /Halestorm-IMisstheMisery.mp3
+Dec 19 18:48 : update: added /YungGravy,bbno$-WhipATesla.mp3
+Dec 19 18:48 : update: added /MrMaksud-BrownRang.mp3
+Dec 19 18:48 : update: added /NothingButThieves-TripSwitch.mp3
+Dec 19 18:48 : update: added /Meshuggah-IvoryTower.mp3
+Dec 19 18:48 : update: added /half•alive-stillfeel..mp3
+Dec 19 18:48 : update: added /YoungerHunger-DeadInside.mp3
+Dec 19 18:48 : update: added /IchikaNito-Isolation.mp3
+Dec 19 18:48 : update: added /DE'WAYNE-SIMPLE(feat.IDONTKNOWHOWBUTTHEYFOUNDME).mp3
+Dec 19 18:48 : update: added /TheNeighbourhood-Nervous.mp3
+Dec 19 18:48 : update: added /PhoebeBridgers-WaitingRoom.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-idle.mp3
+Dec 19 18:48 : update: added /ZackHemsey-TheWay(Instrumental).mp3
+Dec 19 18:48 : update: added /Polyphia,NickJohnston-Champagne.mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-FromTheGallows.mp3
+Dec 19 18:48 : update: added /PhoebeBridgers-ChineseSatellite.mp3
+Dec 19 18:48 : update: added /DeadPoetSociety-AmericanBlood.mp3
+Dec 19 18:48 : update: added /BONESUK-DirtyLittleAnimals(FromtheseriesArcaneLeagueofLegends).mp3
+Dec 19 18:48 : update: added /Zaeden-sochanatha.mp3
+Dec 19 18:48 : update: added /Polyphia-87.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-sourcecode.mp3
+Dec 19 18:48 : update: added /Polyphia-JamesFranco.mp3
+Dec 19 18:48 : update: added /Meshuggah-Clockworks.mp3
+Dec 19 18:48 : update: added /NothingButThieves-Phobia.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-InterruptHandler.mp3
+Dec 19 18:48 : update: added /DojaCat-Woman.mp3
+Dec 19 18:48 : update: added /DannyGonzalez-Yummy.mp3
+Dec 19 18:48 : update: added /MarkJohnPetrie,AndrewJamesPrahlow,Audiomachine-LeapofFaith.mp3
+Dec 19 18:48 : update: added /PatrickWatson-Jetelaisseraidesmots.mp3
+Dec 19 18:48 : update: added /ENHYPEN-Drunk-Dazed.mp3
+Dec 19 18:48 : update: added /TheAlgorithm,Igorrr-deadlock.mp3
+Dec 19 18:48 : update: added /IchikaNito-Qualm.mp3
+Dec 19 18:48 : update: added /TWINXL,DREAMERS-Upgrade.mp3
+Dec 19 18:48 : update: added /Lovejoy-CallMeWhatYouLike.mp3
+Dec 19 18:48 : update: added /DannyGonzalez,DrewGooden-WeAreNottheSamePerson.mp3
+Dec 19 18:48 : update: added /Mitraz-Junoon.mp3
+Dec 19 18:48 : update: added /MenITrust-ShowMeHow.mp3
+Dec 19 18:48 : update: added /NothingButThieves-HoneyWhiskey.mp3
+Dec 19 18:48 : update: added /KatyPerry-HarleysInHawaii.mp3
+Dec 19 18:48 : update: added /PalayeRoyale-LittleBastards.mp3
+Dec 19 18:48 : update: added /HansZimmer-CornfieldChase.mp3
+Dec 19 18:48 : update: added /PhoebeBridgers-IKnowTheEnd.mp3
+Dec 19 18:48 : update: added /LudovicoEinaudi-NuvoleBianche.mp3
+Dec 19 18:48 : update: added /TinyMeatGang-Daddy(feat.QuinnXCII).mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-SocialClimb.mp3
+Dec 19 18:48 : update: added /FridayPilotsClub-HotMess.mp3
+Dec 19 18:48 : update: added /TaylorSwift-LondonBoy.mp3
+Dec 19 18:48 : update: added /Hearts&Colors-Lion.mp3
+Dec 19 18:48 : update: added /DesRocs-SuicideRomantics.mp3
+Dec 19 18:48 : update: added /IchikaNito-Homesick.mp3
+Dec 19 18:48 : update: added /Rynx-ClubPoor(withTinyMeatGang).mp3
+Dec 19 18:48 : update: added /Tamer-BeautifulCrime.mp3
+Dec 19 18:48 : update: added /Royal&theSerpent-overwhelmed.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-floatingpoint-VaporwaveRemix.mp3
+Dec 19 18:48 : update: added /Bleachers-Rollercoaster.mp3
+Dec 19 18:48 : update: added /SmyangPiano,tamagopalette-Serendipity-LofiEdit.mp3
+Dec 19 18:48 : update: added /StrayKids-CASE143.mp3
+Dec 19 18:48 : update: added /TheBandCAMINO-1LastCigarette.mp3
+Dec 19 18:48 : update: added /TinyMeatGang-WalkMan.mp3
+Dec 19 18:48 : update: added /Waterparks-EasyToHate.mp3
+Dec 19 18:48 : update: added /HarryStyles-FineLine.mp3
+Dec 19 18:48 : update: added /HarryLightfoot,Audiomachine-IWillFindYou.mp3
+Dec 19 18:48 : update: added /Betcha-SwimNaked.mp3
+Dec 19 18:48 : update: added /CigarettesAfterSex-K..mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-DoItAllTheTime.mp3
+Dec 19 18:48 : update: added /TessaViolet-Crush.mp3
+Dec 19 18:48 : update: added /BoBurnham-BezosI.mp3
+Dec 19 18:48 : update: added /JohannSebastianBach,LangLang-GoldbergVariations,BWV988-Aria.mp3
+Dec 19 18:48 : exception: Failed to access /home/etheroot/pers/mus/lib/lib64: No such file or directory
+Dec 19 18:48 : update: added /Deafheaven-Sunbather.mp3
+Dec 19 18:48 : update: added /TumTum-Enemy.webm
+Dec 19 18:48 : update: added /Badshah,AmaalMallik,Fazilpuria,SukritiKakar,NehaKakkar-KarGayiChull.mp3
+Dec 19 18:48 : update: added /Mitraz-Alfaazo.mp3
+Dec 19 18:48 : update: added /TheTechnicolors-TonightYouAreMine.mp3
+Dec 19 18:48 : update: added /blackbear,TinyMeatGang-shortkingsanthem.mp3
+Dec 19 18:48 : update: added /DmitriShostakovich,AndréRieu,JohannStraussOrchestra-TheSecondWaltz,Op.99a.mp3
+Dec 19 18:48 : update: added /StevePorter,Audiomachine-Empathy.mp3
+Dec 19 18:48 : update: added /NothingButThieves-MoralPanic.mp3
+Dec 19 18:48 : update: added /IDONTKNOWHOWBUTTHEYFOUNDME-BleedMagic.mp3
+Dec 19 18:48 : update: added /Jacob'sPiano-ArrivaloftheBirds.mp3
+Dec 19 18:48 : update: added /COIN-CrashMyCar.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-boot.mp3
+Dec 19 18:48 : update: added /LynxXII-Augury.mp3
+Dec 19 18:48 : update: added /MarcoLuka-domewrong.mp3
+Dec 19 18:48 : update: added /DannyGonzalez-MyDadIsRich.mp3
+Dec 19 18:48 : update: added /AnuvJain-AlagAasmaan.mp3
+Dec 19 18:48 : update: added /Eminem-Godzilla(feat.JuiceWRLD).mp3
+Dec 19 18:48 : update: added /TheAlgorithm-hex.mp3
+Dec 19 18:48 : update: added /JaedenCamstra-Infomercials&HeavyEyelids.mp3
+Dec 19 18:48 : update: added /Pritam,ArijitSingh-Ilahi.mp3
+Dec 19 18:48 : update: added /AndrewBird-AreYouSerious.mp3
+Dec 19 18:48 : update: added /GlassAnimals-SpaceGhostCoastToCoast.mp3
+Dec 19 18:48 : update: added /TropicGold-Chemicals.mp3
+Dec 19 18:48 : update: added /FlyByMidnight-LoveMeLikeaFriend.mp3
+Dec 19 18:48 : update: added /Badshah,DiljitDosanjh,AasthaGill-ProperPatola.mp3
+Dec 19 18:48 : update: added /SabrinaCarpenter-AlmostLove.mp3
+Dec 19 18:48 : update: added /IZONE-LaVieenRose.mp3
+Dec 19 18:48 : update: added /NothingButThieves-IsEverybodyGoingCrazy.mp3
+Dec 19 18:48 : update: added /Jacob'sPiano-Mariaged'Amour.mp3
+Dec 19 18:48 : update: added /LudovicoEinaudi,RobertZiegler,RoyalPhilharmonicOrchestra-Divenire.mp3
+Dec 19 18:48 : update: added /WilburSoot-YourNewBoyfriend.mp3
+Dec 19 18:48 : update: added /Meshuggah-Stifled.mp3
+Dec 19 18:48 : update: added /BoBurnham-Shit.mp3
+Dec 19 18:48 : update: added /MiddleMilk,MoistCr1tikal-OneNippleataTime.mp3
+Dec 19 18:48 : update: added /VÉRITÉ-SomebodyElse.mp3
+Dec 19 18:48 : update: added /DannyGonzalez,KurtisConner-InLoveWithACreeper.mp3
+Dec 19 18:48 : update: added /MARINA-Froot.mp3
+Dec 19 18:48 : update: added /Lorde-Team.mp3
+Dec 19 18:48 : update: added /Dayglow-CanICallYouTonight.mp3
+Dec 19 18:48 : update: added /TheOhHellos-HelloMyOldHeart.mp3
+Dec 19 18:48 : update: added /mxnarch-Nightwing.mp3
+Dec 19 18:48 : update: added /SufjanStevens-FourthofJuly.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-OracleMachine.mp3
+Dec 19 18:48 : update: added /Polyphia-G.O.A.T..mp3
+Dec 19 18:48 : update: added /RickyMontgomery-Cabo.mp3
+Dec 19 18:48 : update: added /AmitTrivedi-ShaamShaandaar.mp3
+Dec 19 18:48 : update: added /Florence+TheMachine-CosmicLove.mp3
+Dec 19 18:48 : update: added /Polyphia,MarioCamarena,ErickHansel-Baditude.mp3
+Dec 19 18:48 : update: added /half•alive-What'sWrong.mp3
+Dec 19 18:48 : update: added /YungGravy-yup!.mp3
+Dec 19 18:48 : update: added /HarryStyles-LittleFreak.mp3
+Dec 19 18:48 : update: added /GlassAnimals-TheOtherSideOfParadise.mp3
+Dec 19 18:48 : update: added /floracash-You'reSomebodyElse.mp3
+Dec 19 18:48 : update: added /Deafheaven-Vertigo.mp3
+Dec 19 18:48 : update: added /AlexandreDesplat,LondonSymphonyOrchestra-AlanTuring'sLegacy.mp3
+Dec 19 18:48 : update: added /TaylorSwift-NothingNew(feat.PhoebeBridgers)(Taylor’sVersion)(FromTheVault).mp3
+Dec 19 18:48 : update: added /TheAlgorithm-dynamicrecompilation.mp3
+Dec 19 18:48 : update: added /ConanGray-Maniac.mp3
+Dec 19 18:48 : update: added /SmyangPiano-Euphoria.mp3
+Dec 19 18:48 : update: added /TheLocalTrain-ChooLo.mp3
+Dec 19 18:48 : update: added /LudovicoEinaudi,RobertZiegler,RoyalPhilharmonicOrchestra-Primavera.mp3
+Dec 19 18:48 : update: added /HansZimmer-Time.mp3
+Dec 19 18:48 : update: added /TAEMIN-Criminal.mp3
+Dec 19 18:48 : update: added /PalayeRoyale-Mr.DoctorMan.mp3
+Dec 19 18:48 : update: added /YUNGBLUD-strawberrylipstick.mp3
+Dec 19 18:48 : update: added /PVRIS-Monster.mp3
+Dec 19 18:48 : update: added /HansZimmer,JaviLobe-CornfieldChase-PianoVersion.mp3
+Dec 19 18:48 : update: added /EthelCain-AmericanTeenager.mp3
+Dec 19 18:48 : update: added /AnushaMani,VishalDadlani-Gulaabo.mp3
+Dec 19 18:48 : update: added /SecessionStudios-Lucifer'sWaltz.mp3
+Dec 19 18:48 : update: added /LudovicoEinaudi-Oltremare.mp3
+Dec 19 18:48 : update: added /StoryUntold-gxxglemaps.mp3
+Dec 19 18:48 : update: added /Pritam,ArijitSingh-Raabta.mp3
+Dec 19 18:48 : update: added /TheHaunt-Cigarettes&Feelings.mp3
+Dec 19 18:48 : update: added /ConanGray-WishYouWereSober.mp3
+Dec 19 18:48 : update: added /Zeest-BcSutta.mp3
+Dec 19 18:48 : update: added /JacobYoffee-WithResolve.mp3
+Dec 19 18:48 : update: added /MojoJojo-Dillagi.webm
+Dec 19 18:48 : update: added /Royal&theSerpent-ican'tgethigh.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-rootkit-ChiptuneRemix.mp3
+Dec 19 18:48 : update: added /LucasDelphy-Flowing.mp3
+Dec 19 18:48 : update: added /dodie-HateMyself.mp3
+Dec 19 18:48 : update: added /SufjanStevens-DeathwithDignity.mp3
+Dec 19 18:48 : update: added /RobertoCacciapaglia-WildSide.mp3
+Dec 19 18:48 : update: added /GeekMusic-DeathNote-L'sTheme-MainTheme.mp3
+Dec 19 18:48 : update: added /TheAlgorithm-DataRenaissance.mp3
+Dec 19 18:48 : update: added /DannyGonzalez-I'mGonnaKillSantaClaus.mp3
+Dec 19 18:48 : update: added /SmyangPiano-TheTruthUntold.mp3
+Dec 19 18:48 : update: added /TheTechnicolors-NeonRoses.mp3
+Dec 19 18:48 : update: added /IchikaNito-imissyou.mp3
+Dec 19 18:48 : update: added /MyChemicalRomance-NaNaNa(NaNaNaNaNaNaNaNaNa).mp3
+Dec 19 18:48 : update: added /PhoebeBridgers-MoonSong.mp3
+Dec 19 18:48 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Dec 19 18:48 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 19 18:48 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 19 18:48 : player: problems opening audio device while playing "Airways-RecklessTongue.mp3"
+Dec 19 18:48 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 19 18:48 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 19 18:48 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 19 18:48 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:0,0": Device or resource busy
+Dec 19 18:50 : player: played "Airways-RecklessTongue.mp3"
+Dec 19 18:50 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:50 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:51 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:52 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:53 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:53 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:53 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:55 : player: played "DE'WAYNE-SIMPLE(feat.IDONTKNOWHOWBUTTHEYFOUNDME).mp3"
+Dec 19 18:56 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:57 : player: played "IDONTKNOWHOWBUTTHEYFOUNDME-NewInvention.mp3"
+Dec 19 18:57 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:57 : player: played "IDONTKNOWHOWBUTTHEYFOUNDME-NewInvention.mp3"
+Dec 19 18:57 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:57 : exception: Bad song index
+Dec 19 18:57 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:57 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:57 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 19 18:59 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 23 08:16 : player: played "369-JustLookatYou.mp3"
+Dec 23 12:00 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Dec 23 12:00 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 23 12:01 : player: played "Bcalm,softy-timeswithyou.mp3"
+Dec 23 12:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 23 12:04 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 23 12:08 : player: played "SmyangPiano-PiedPiper.mp3"
+Dec 23 12:09 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 23 12:11 : player: played "Waterparks-FUCKABOUTIT(feat.blackbear).mp3"
+Dec 23 12:12 : player: played "Thexx-Intro.mp3"
+Dec 23 12:14 : player: played "IchikaNito-imissyou.mp3"
+Dec 23 12:15 : player: played "PLVTINUM-COFFIN.mp3"
+Dec 23 12:17 : player: played "IchikaNito-Isolation.mp3"
+Dec 23 12:18 : player: played "JaedenCamstra-Infomercials&HeavyEyelids.mp3"
+Dec 23 12:19 : player: played "SmyangPiano,tamagopalette-Euphoria-LofiEdit.mp3"
+Dec 23 12:21 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Dec 23 12:21 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM

@@ -26,9 +26,21 @@ require('packer').startup(function(use)
     },
   }
 
+  use {
+    'lervag/vimtex',}
+    -- Enable filetype detection, plugin, and indentation
+  vim.cmd('filetype plugin indent on')
+
+-- Enable syntax highlighting
+  vim.cmd('syntax enable')
+
+-- Set the default PDF viewer to zathura
+  vim.g.vimtex_view_method = 'zathura'
+
+
   use { -- Autocompletion
     'hrsh7th/nvim-cmp',
-    requires = { 'hrsh7th/cmp-nvim-lsp', 'L3MON4D3/LuaSnip', 'saadparwaiz1/cmp_luasnip','rafamadriz/friendly-snippets' },
+    requires = { 'hrsh7th/cmp-nvim-lsp', 'L3MON4D3/LuaSnip', 'saadparwaiz1/cmp_luasnip'},
   }
 
   use { -- Highlight, edit, and navigate code
@@ -49,6 +61,8 @@ require('packer').startup(function(use)
   use 'lewis6991/gitsigns.nvim'
 
   use {'nyoom-engineering/oxocarbon.nvim'}
+  use {'ishan9299/modus-theme-vim'}
+  use {'twerth/ir_black'}
   use 'nvim-lualine/lualine.nvim' -- Fancier statusline
 --  use 'lukas-reineke/indent-blankline.nvim' -- Add indentation guides even on blank lines
 --  use 'numToStr/Comment.nvim' -- "gc" to comment visual regions/lines
