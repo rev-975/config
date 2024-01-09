@@ -1,5 +1,5 @@
 #!/bin/sh
-curl --location --request PUT '{ip}' --header 'Accept: application/json' --data-raw '{
+curl --location --request PUT 'http://{ip:port}/elgato/lights' --header 'Accept: application/json' --data-raw '{
     "numberOfLights": 1,
     "lights": [
         {
