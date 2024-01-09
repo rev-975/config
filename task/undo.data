@@ -1,0 +1,696 @@
+time 1701304370
+new [description:"L1" due:"1701282600" entry:"1701304370" modified:"1701304370" project:"math.jee.lines" status:"pending" uuid:"7a926ab3-8274-4522-9c18-64c99c90159e"]
+---
+time 1701304425
+old [description:"L1" due:"1701282600" entry:"1701304370" modified:"1701304370" project:"math.jee.lines" status:"pending" uuid:"7a926ab3-8274-4522-9c18-64c99c90159e"]
+new [description:"L1" due:"1701369000" entry:"1701304370" modified:"1701304425" project:"math.jee.lines" status:"pending" uuid:"7a926ab3-8274-4522-9c18-64c99c90159e"]
+---
+time 1701304700
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" modified:"1701304700" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1701317094
+new [description:"clean earbuds" due:"1701541800" entry:"1701317094" imask:"0" modified:"1701304700" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"c345ada5-0efa-429b-b23e-6ed50acea10e"]
+---
+time 1701317094
+old [description:"clean earbuds" due:"1701541800" entry:"1701304700" modified:"1701304700" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"-" modified:"1701317094" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1701317298
+new [description:"L2" due:"1701282600" entry:"1701317298" modified:"1701317298" project:"math.jee.lines" status:"pending" uuid:"3e288841-d895-46fe-a13b-d04169dc4d1f"]
+---
+time 1701317321
+new [description:"fiitjee" due:"1701282600" entry:"1701317321" modified:"1701317321" project:"math.jee.lines" status:"pending" uuid:"c5c2a476-304a-4e93-991c-10c7cbeb6e97"]
+---
+time 1701317326
+new [description:"fiitjee.illustrations" due:"1701282600" entry:"1701317326" modified:"1701317326" project:"math.jee.lines" status:"pending" uuid:"765c1d52-00ca-4cd4-a9d9-7e666d03b6a4"]
+---
+time 1701317554
+new [description:"practical 1" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"bfb686b8-f721-429b-8425-ec4407da1ee1"]
+---
+time 1701317554
+new [description:"practical 2" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"5c2fec4b-9915-40fa-94a4-78bc79f631a2"]
+---
+time 1701317554
+new [description:"practical 3" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"a93419da-c2e7-450a-90fd-727080f21b25"]
+---
+time 1701317554
+new [description:"practical 4" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"fa8ce1f6-3755-4d4b-b11e-5a6ef426eff3"]
+---
+time 1701317554
+new [description:"practical 5" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"3bc00794-8063-4134-9198-23427c245bab"]
+---
+time 1701317554
+new [description:"practical 6" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"69d28aa2-9d1f-425a-83dd-1cfc8cbba4e9"]
+---
+time 1701317554
+new [description:"practical 7" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"52aabb8b-cce0-4d00-a7c3-2789c63aa090"]
+---
+time 1701318015
+new [description:"lecture 1" entry:"1701318015" modified:"1701318015" project:"math.jee.lines" status:"pending" uuid:"14a6c944-724d-4e91-896f-0cbf2432fa19"]
+---
+time 1701318015
+new [description:"lecture 2" entry:"1701318015" modified:"1701318015" project:"math.jee.lines" status:"pending" uuid:"10b4d61a-6040-4c54-a4f6-0b4175a4f6a8"]
+---
+time 1701318015
+new [description:"lecture 3" entry:"1701318015" modified:"1701318015" project:"math.jee.lines" status:"pending" uuid:"eff73c6a-8dab-4932-8a2c-8523864c12a3"]
+---
+time 1701318016
+new [description:"lecture 4" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"db24fed4-324e-4ed7-8e39-fe8775ffe790"]
+---
+time 1701318016
+new [description:"lecture 5" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"c26d86bf-5b9c-418f-a023-f04554963ce8"]
+---
+time 1701318016
+new [description:"lecture 6" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"c81350f2-17b7-45e3-93a9-b7a81af3220f"]
+---
+time 1701318016
+new [description:"lecture 7" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"531ee003-2eea-4b6e-b25a-ff05c6adb849"]
+---
+time 1701318016
+new [description:"lecture 8" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"0defd021-da4e-4e69-ada7-70ffa30ae667"]
+---
+time 1701318016
+new [description:"lecture 9" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"acb005de-ae40-4f97-abf7-49812d7ab345"]
+---
+time 1701318016
+new [description:"lecture 10" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"3166d0ef-bacb-404c-837b-a0fd288c78e3"]
+---
+time 1701318016
+new [description:"lecture 11" entry:"1701318016" modified:"1701318016" project:"math.jee.lines" status:"pending" uuid:"cfbe9283-7aef-4a51-93ee-a9f2c7aecf9b"]
+---
+time 1701318051
+old [description:"L1" due:"1701369000" entry:"1701304370" modified:"1701304425" project:"math.jee.lines" status:"pending" uuid:"7a926ab3-8274-4522-9c18-64c99c90159e"]
+new [description:"L1" due:"1701369000" end:"1701318050" entry:"1701304370" modified:"1701318051" project:"math.jee.lines" status:"deleted" uuid:"7a926ab3-8274-4522-9c18-64c99c90159e"]
+---
+time 1701318051
+old [description:"L2" due:"1701282600" entry:"1701317298" modified:"1701317298" project:"math.jee.lines" status:"pending" uuid:"3e288841-d895-46fe-a13b-d04169dc4d1f"]
+new [description:"L2" due:"1701282600" end:"1701318051" entry:"1701317298" modified:"1701318051" project:"math.jee.lines" status:"deleted" uuid:"3e288841-d895-46fe-a13b-d04169dc4d1f"]
+---
+time 1701318054
+old [description:"fiitjee" due:"1701282600" entry:"1701317321" modified:"1701317321" project:"math.jee.lines" status:"pending" uuid:"c5c2a476-304a-4e93-991c-10c7cbeb6e97"]
+new [description:"fiitjee" due:"1701282600" end:"1701318051" entry:"1701317321" modified:"1701318054" project:"math.jee.lines" status:"deleted" uuid:"c5c2a476-304a-4e93-991c-10c7cbeb6e97"]
+---
+time 1701318054
+old [description:"fiitjee.illustrations" due:"1701282600" entry:"1701317326" modified:"1701317326" project:"math.jee.lines" status:"pending" uuid:"765c1d52-00ca-4cd4-a9d9-7e666d03b6a4"]
+new [description:"fiitjee.illustrations" due:"1701282600" end:"1701318054" entry:"1701317326" modified:"1701318054" project:"math.jee.lines" status:"deleted" uuid:"765c1d52-00ca-4cd4-a9d9-7e666d03b6a4"]
+---
+time 1701318054
+old [description:"practical 1" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"bfb686b8-f721-429b-8425-ec4407da1ee1"]
+new [description:"practical 1" due:"1701369000" end:"1701318054" entry:"1701317554" modified:"1701318054" project:"sch.chem" status:"deleted" uuid:"bfb686b8-f721-429b-8425-ec4407da1ee1"]
+---
+time 1701318054
+old [description:"practical 2" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"5c2fec4b-9915-40fa-94a4-78bc79f631a2"]
+new [description:"practical 2" due:"1701369000" end:"1701318054" entry:"1701317554" modified:"1701318054" project:"sch.chem" status:"deleted" uuid:"5c2fec4b-9915-40fa-94a4-78bc79f631a2"]
+---
+time 1701318054
+old [description:"practical 3" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"a93419da-c2e7-450a-90fd-727080f21b25"]
+new [description:"practical 3" due:"1701369000" end:"1701318054" entry:"1701317554" modified:"1701318054" project:"sch.chem" status:"deleted" uuid:"a93419da-c2e7-450a-90fd-727080f21b25"]
+---
+time 1701318054
+old [description:"practical 4" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"fa8ce1f6-3755-4d4b-b11e-5a6ef426eff3"]
+new [description:"practical 4" due:"1701369000" end:"1701318054" entry:"1701317554" modified:"1701318054" project:"sch.chem" status:"deleted" uuid:"fa8ce1f6-3755-4d4b-b11e-5a6ef426eff3"]
+---
+time 1701318054
+old [description:"practical 5" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"3bc00794-8063-4134-9198-23427c245bab"]
+new [description:"practical 5" due:"1701369000" end:"1701318054" entry:"1701317554" modified:"1701318054" project:"sch.chem" status:"deleted" uuid:"3bc00794-8063-4134-9198-23427c245bab"]
+---
+time 1701318054
+old [description:"practical 6" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"69d28aa2-9d1f-425a-83dd-1cfc8cbba4e9"]
+new [description:"practical 6" due:"1701369000" end:"1701318054" entry:"1701317554" modified:"1701318054" project:"sch.chem" status:"deleted" uuid:"69d28aa2-9d1f-425a-83dd-1cfc8cbba4e9"]
+---
+time 1701318054
+old [description:"practical 7" due:"1701369000" entry:"1701317554" modified:"1701317554" project:"sch.chem" status:"pending" uuid:"52aabb8b-cce0-4d00-a7c3-2789c63aa090"]
+new [description:"practical 7" due:"1701369000" end:"1701318054" entry:"1701317554" modified:"1701318054" project:"sch.chem" status:"deleted" uuid:"52aabb8b-cce0-4d00-a7c3-2789c63aa090"]
+---
+time 1701318092
+new [description:"practical 1" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"e7a168c7-f6ec-454f-a8b2-b394e7dffc5d"]
+---
+time 1701318092
+new [description:"practical 2" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"6f7b2ea1-2428-4d2e-acb7-267e49881a8d"]
+---
+time 1701318092
+new [description:"practical 3" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"1cb8760d-d80b-4ded-b1b5-033956146d4d"]
+---
+time 1701318092
+new [description:"practical 4" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"06d8dfcb-c681-4dbd-a042-ae00f7f1b1f7"]
+---
+time 1701318092
+new [description:"practical 5" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"b6b781e9-7b95-45ce-b8a9-27772b0f21cf"]
+---
+time 1701318092
+new [description:"practical 6" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"a258352d-c42a-4dc3-b85f-0404f769110c"]
+---
+time 1701318092
+new [description:"practical 7" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"25dc81fc-aa5d-432b-a258-f798de993679"]
+---
+time 1701318113
+old [description:"practical 1" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"e7a168c7-f6ec-454f-a8b2-b394e7dffc5d"]
+new [description:"practical 1" end:"1701318112" entry:"1701318092" modified:"1701318113" project:"chem.sch" status:"deleted" uuid:"e7a168c7-f6ec-454f-a8b2-b394e7dffc5d"]
+---
+time 1701318113
+old [description:"practical 2" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"6f7b2ea1-2428-4d2e-acb7-267e49881a8d"]
+new [description:"practical 2" end:"1701318113" entry:"1701318092" modified:"1701318113" project:"chem.sch" status:"deleted" uuid:"6f7b2ea1-2428-4d2e-acb7-267e49881a8d"]
+---
+time 1701318113
+old [description:"practical 3" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"1cb8760d-d80b-4ded-b1b5-033956146d4d"]
+new [description:"practical 3" end:"1701318113" entry:"1701318092" modified:"1701318113" project:"chem.sch" status:"deleted" uuid:"1cb8760d-d80b-4ded-b1b5-033956146d4d"]
+---
+time 1701318113
+old [description:"practical 4" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"06d8dfcb-c681-4dbd-a042-ae00f7f1b1f7"]
+new [description:"practical 4" end:"1701318113" entry:"1701318092" modified:"1701318113" project:"chem.sch" status:"deleted" uuid:"06d8dfcb-c681-4dbd-a042-ae00f7f1b1f7"]
+---
+time 1701318113
+old [description:"practical 5" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"b6b781e9-7b95-45ce-b8a9-27772b0f21cf"]
+new [description:"practical 5" end:"1701318113" entry:"1701318092" modified:"1701318113" project:"chem.sch" status:"deleted" uuid:"b6b781e9-7b95-45ce-b8a9-27772b0f21cf"]
+---
+time 1701318113
+old [description:"practical 6" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"a258352d-c42a-4dc3-b85f-0404f769110c"]
+new [description:"practical 6" end:"1701318113" entry:"1701318092" modified:"1701318113" project:"chem.sch" status:"deleted" uuid:"a258352d-c42a-4dc3-b85f-0404f769110c"]
+---
+time 1701318113
+old [description:"practical 7" entry:"1701318092" modified:"1701318092" project:"chem.sch" status:"pending" uuid:"25dc81fc-aa5d-432b-a258-f798de993679"]
+new [description:"practical 7" end:"1701318113" entry:"1701318092" modified:"1701318113" project:"chem.sch" status:"deleted" uuid:"25dc81fc-aa5d-432b-a258-f798de993679"]
+---
+time 1701318195
+new [description:"practical 1" due:"1701369000" entry:"1701318195" modified:"1701318195" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"c3069c8e-6d8b-474f-8b8e-8fb81e12e1ee"]
+---
+time 1701318196
+new [description:"practical 2" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"34521a02-8cff-435b-a02b-c943ae4e717f"]
+---
+time 1701318196
+new [description:"practical 3" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"fc3b44de-3684-40e4-a690-8cac6329cad6"]
+---
+time 1701318196
+new [description:"practical 4" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"6ac911f9-b38b-4f95-b576-b01ff74f1283"]
+---
+time 1701318196
+new [description:"practical 5" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"385ac5a9-b573-4812-9c17-8fab79f8accb"]
+---
+time 1701318196
+new [description:"practical 6" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"eb1e9ef5-4edc-40e5-9ee1-eca10dfa847e"]
+---
+time 1701318196
+new [description:"practical 7" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"21b69656-a3d7-440c-b73e-fbbc1234913d"]
+---
+time 1701318350
+old [description:"lecture 1" entry:"1701318015" modified:"1701318015" project:"math.jee.lines" status:"pending" uuid:"14a6c944-724d-4e91-896f-0cbf2432fa19"]
+new [description:"lecture 1" due:"1701369000" entry:"1701318015" modified:"1701318350" project:"math.jee.lines" status:"pending" uuid:"14a6c944-724d-4e91-896f-0cbf2432fa19"]
+---
+time 1701318350
+old [description:"lecture 2" entry:"1701318015" modified:"1701318015" project:"math.jee.lines" status:"pending" uuid:"10b4d61a-6040-4c54-a4f6-0b4175a4f6a8"]
+new [description:"lecture 2" due:"1701369000" entry:"1701318015" modified:"1701318350" project:"math.jee.lines" status:"pending" uuid:"10b4d61a-6040-4c54-a4f6-0b4175a4f6a8"]
+---
+time 1701318377
+new [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701318377" project:"math.jee.lines" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+---
+time 1701318394
+new [description:"fiitjee.exercise" due:"1701369000" entry:"1701318394" modified:"1701318394" project:"math.jee.lines" status:"pending" uuid:"d33afd10-41ad-42be-8be8-53bb34bc9bb3"]
+---
+time 1701318405
+new [description:"fiitjee.obj" due:"1701369000" entry:"1701318405" modified:"1701318405" project:"math.jee.lines" status:"pending" uuid:"a6745170-01c8-4914-a833-b72792054a35"]
+---
+time 1701324509
+old [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701318377" project:"math.jee.lines" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+new [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701324509" project:"math.jee.lines" start:"1701324509" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+---
+time 1701324514
+old [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701324509" project:"math.jee.lines" start:"1701324509" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+new [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701324514" project:"math.jee.lines" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+---
+time 1701324895
+old [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701324514" project:"math.jee.lines" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+new [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701324895" project:"math.jee.lines" start:"1701324895" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+---
+time 1701581288
+new [description:"clean earbuds" due:"1702146600" entry:"1701581288" imask:"1" modified:"1701317094" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"42fee9ef-d635-4e06-9a44-8f3a0eb87933"]
+---
+time 1701581288
+old [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"-" modified:"1701317094" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"--" modified:"1701581288" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1701581303
+old [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"--" modified:"1701581288" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"-+" modified:"1701581303" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1701581303
+old [description:"clean earbuds" due:"1702146600" entry:"1701581288" imask:"1" modified:"1701317094" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"42fee9ef-d635-4e06-9a44-8f3a0eb87933"]
+new [description:"clean earbuds" due:"1702146600" end:"1701581303" entry:"1701581288" imask:"1.000000" modified:"1701581303" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"completed" until:"1749493800" uuid:"42fee9ef-d635-4e06-9a44-8f3a0eb87933"]
+---
+time 1701581749
+old [description:"practical 1" due:"1701369000" entry:"1701318195" modified:"1701318195" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"c3069c8e-6d8b-474f-8b8e-8fb81e12e1ee"]
+new [description:"practical 1" due:"1701369000" end:"1701581743" entry:"1701318195" modified:"1701581749" project:"chem.sch" scheduled:"1701347400" status:"completed" uuid:"c3069c8e-6d8b-474f-8b8e-8fb81e12e1ee"]
+---
+time 1701581749
+old [description:"practical 2" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"34521a02-8cff-435b-a02b-c943ae4e717f"]
+new [description:"practical 2" due:"1701369000" end:"1701581749" entry:"1701318196" modified:"1701581749" project:"chem.sch" scheduled:"1701347400" status:"completed" uuid:"34521a02-8cff-435b-a02b-c943ae4e717f"]
+---
+time 1701581749
+old [description:"practical 3" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"fc3b44de-3684-40e4-a690-8cac6329cad6"]
+new [description:"practical 3" due:"1701369000" end:"1701581749" entry:"1701318196" modified:"1701581749" project:"chem.sch" scheduled:"1701347400" status:"completed" uuid:"fc3b44de-3684-40e4-a690-8cac6329cad6"]
+---
+time 1701581749
+old [description:"practical 4" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"6ac911f9-b38b-4f95-b576-b01ff74f1283"]
+new [description:"practical 4" due:"1701369000" end:"1701581749" entry:"1701318196" modified:"1701581749" project:"chem.sch" scheduled:"1701347400" status:"completed" uuid:"6ac911f9-b38b-4f95-b576-b01ff74f1283"]
+---
+time 1701581749
+old [description:"practical 5" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"385ac5a9-b573-4812-9c17-8fab79f8accb"]
+new [description:"practical 5" due:"1701369000" end:"1701581749" entry:"1701318196" modified:"1701581749" project:"chem.sch" scheduled:"1701347400" status:"completed" uuid:"385ac5a9-b573-4812-9c17-8fab79f8accb"]
+---
+time 1701581749
+old [description:"practical 6" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"eb1e9ef5-4edc-40e5-9ee1-eca10dfa847e"]
+new [description:"practical 6" due:"1701369000" end:"1701581749" entry:"1701318196" modified:"1701581749" project:"chem.sch" scheduled:"1701347400" status:"completed" uuid:"eb1e9ef5-4edc-40e5-9ee1-eca10dfa847e"]
+---
+time 1701581749
+old [description:"practical 7" due:"1701369000" entry:"1701318196" modified:"1701318196" project:"chem.sch" scheduled:"1701347400" status:"pending" uuid:"21b69656-a3d7-440c-b73e-fbbc1234913d"]
+new [description:"practical 7" due:"1701369000" end:"1701581749" entry:"1701318196" modified:"1701581749" project:"chem.sch" scheduled:"1701347400" status:"completed" uuid:"21b69656-a3d7-440c-b73e-fbbc1234913d"]
+---
+time 1701582002
+new [description:"shriya" due:"1676399400" entry:"1701582002" modified:"1701582002" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+---
+time 1701582004
+new [description:"shriya" due:"1676399400" entry:"1701582004" imask:"0" modified:"1701582002" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" until:"1802629800" uuid:"2ec562a6-7da3-4495-8e92-874044f3f711" wait:"1676140200"]
+---
+time 1701582004
+new [description:"shriya" due:"1707935400" entry:"1701582004" imask:"1" modified:"1701582002" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" until:"1802629800" uuid:"15a3e72c-addc-4b28-b68b-22b6f7c6e780" wait:"1707676200"]
+---
+time 1701582004
+old [description:"shriya" due:"1676399400" entry:"1701582002" modified:"1701582002" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" entry:"1701582002" mask:"WW" modified:"1701582004" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+---
+time 1701582023
+old [description:"shriya" due:"1676399400" entry:"1701582002" mask:"WW" modified:"1701582004" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" entry:"1701582002" mask:"+W" modified:"1701582023" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+---
+time 1701582024
+old [description:"shriya" due:"1676399400" entry:"1701582004" imask:"0" modified:"1701582002" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" until:"1802629800" uuid:"2ec562a6-7da3-4495-8e92-874044f3f711" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" end:"1701582023" entry:"1701582004" imask:"0.000000" modified:"1701582024" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"completed" until:"1802629800" uuid:"2ec562a6-7da3-4495-8e92-874044f3f711" wait:"1676140200"]
+---
+time 1701582066
+old [description:"shriya" due:"1676399400" entry:"1701582002" mask:"+W" modified:"1701582023" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" end:"1701582065" entry:"1701582002" mask:"+W" modified:"1701582066" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"deleted" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+---
+time 1701582068
+old [description:"shriya" due:"1676399400" end:"1701582065" entry:"1701582002" mask:"+W" modified:"1701582066" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"deleted" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" end:"1701582065" entry:"1701582002" mask:"+X" modified:"1701582068" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"deleted" until:"1802629800" uuid:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" wait:"1676140200"]
+---
+time 1701582068
+old [description:"shriya" due:"1707935400" entry:"1701582004" imask:"1" modified:"1701582002" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" until:"1802629800" uuid:"15a3e72c-addc-4b28-b68b-22b6f7c6e780" wait:"1707676200"]
+new [description:"shriya" due:"1707935400" end:"1701582068" entry:"1701582004" imask:"1.000000" modified:"1701582068" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"deleted" until:"1802629800" uuid:"15a3e72c-addc-4b28-b68b-22b6f7c6e780" wait:"1707676200"]
+---
+time 1701582068
+old [description:"shriya" due:"1707935400" end:"1701582068" entry:"1701582004" imask:"1.000000" modified:"1701582068" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"deleted" until:"1802629800" uuid:"15a3e72c-addc-4b28-b68b-22b6f7c6e780" wait:"1707676200"]
+new [description:"shriya" due:"1707935400" end:"1701582068" entry:"1701582004" imask:"1.000000" modified:"1701582068" parent:"d4be6c09-86fa-41c8-b3f8-031f8163adc2" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"deleted" until:"1802629800" uuid:"15a3e72c-addc-4b28-b68b-22b6f7c6e780" wait:"1707676200"]
+---
+time 1701582138
+new [description:"shriya" due:"1676399400" entry:"1701582138" modified:"1701582138" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"506672d0-a24d-4974-a468-90b9e1116683" wait:"1676140200"]
+---
+time 1701582140
+new [description:"shriya" due:"1676399400" entry:"1701582140" imask:"0" modified:"1701582138" parent:"506672d0-a24d-4974-a468-90b9e1116683" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"097f9517-bd5d-4c5d-a897-4d5a584adab5" wait:"1676140200"]
+---
+time 1701582140
+new [description:"shriya" due:"1707935400" entry:"1701582140" imask:"1" modified:"1701582138" parent:"506672d0-a24d-4974-a468-90b9e1116683" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"f67f855f-1063-40b1-8250-fbfbdb76bb51" wait:"1707676200"]
+---
+time 1701582140
+old [description:"shriya" due:"1676399400" entry:"1701582138" modified:"1701582138" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"506672d0-a24d-4974-a468-90b9e1116683" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" entry:"1701582138" mask:"WW" modified:"1701582140" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"506672d0-a24d-4974-a468-90b9e1116683" wait:"1676140200"]
+---
+time 1701582144
+old [description:"shriya" due:"1676399400" entry:"1701582138" mask:"WW" modified:"1701582140" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"506672d0-a24d-4974-a468-90b9e1116683" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" entry:"1701582138" mask:"+W" modified:"1701582144" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"506672d0-a24d-4974-a468-90b9e1116683" wait:"1676140200"]
+---
+time 1701582144
+old [description:"shriya" due:"1676399400" entry:"1701582140" imask:"0" modified:"1701582138" parent:"506672d0-a24d-4974-a468-90b9e1116683" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"097f9517-bd5d-4c5d-a897-4d5a584adab5" wait:"1676140200"]
+new [description:"shriya" due:"1676399400" end:"1701582144" entry:"1701582140" imask:"0.000000" modified:"1701582144" parent:"506672d0-a24d-4974-a468-90b9e1116683" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"completed" uuid:"097f9517-bd5d-4c5d-a897-4d5a584adab5" wait:"1676140200"]
+---
+time 1701582207
+new [description:"sravya" due:"1722623400" entry:"1701582207" modified:"1701582207" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"f3c1a34d-9de9-4625-ae9d-773d2cfac01e" wait:"1722450600"]
+---
+time 1701582208
+new [description:"sravya" due:"1722623400" entry:"1701582208" imask:"0" modified:"1701582207" parent:"f3c1a34d-9de9-4625-ae9d-773d2cfac01e" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"5e4d3b30-4ff6-4de6-ae4f-0784185d3eba" wait:"1722450600"]
+---
+time 1701582208
+old [description:"sravya" due:"1722623400" entry:"1701582207" modified:"1701582207" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"f3c1a34d-9de9-4625-ae9d-773d2cfac01e" wait:"1722450600"]
+new [description:"sravya" due:"1722623400" entry:"1701582207" mask:"W" modified:"1701582208" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"f3c1a34d-9de9-4625-ae9d-773d2cfac01e" wait:"1722450600"]
+---
+time 1701582220
+new [description:"deepa" due:"1724956200" entry:"1701582220" modified:"1701582220" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"a61b38a1-420f-4874-a3d9-9dae1408598c" wait:"1722450600"]
+---
+time 1701582223
+new [description:"deepa" due:"1724956200" entry:"1701582223" imask:"0" modified:"1701582220" parent:"a61b38a1-420f-4874-a3d9-9dae1408598c" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"b97de15d-2907-439f-aa25-01993fc0a98f" wait:"1722450600"]
+---
+time 1701582223
+old [description:"deepa" due:"1724956200" entry:"1701582220" modified:"1701582220" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"a61b38a1-420f-4874-a3d9-9dae1408598c" wait:"1722450600"]
+new [description:"deepa" due:"1724956200" entry:"1701582220" mask:"W" modified:"1701582223" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"a61b38a1-420f-4874-a3d9-9dae1408598c" wait:"1722450600"]
+---
+time 1701582325
+new [description:"rishitha" due:"1724005800" entry:"1701582325" modified:"1701582325" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"4dc38fb3-7182-43a4-80d4-1e070f432474" wait:"1722450600"]
+---
+time 1701582330
+new [description:"rishitha" due:"1724005800" entry:"1701582330" imask:"0" modified:"1701582325" parent:"4dc38fb3-7182-43a4-80d4-1e070f432474" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"87c3623a-eb7b-4962-b711-575f2baafd98" wait:"1722450600"]
+---
+time 1701582330
+old [description:"rishitha" due:"1724005800" entry:"1701582325" modified:"1701582325" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"4dc38fb3-7182-43a4-80d4-1e070f432474" wait:"1722450600"]
+new [description:"rishitha" due:"1724005800" entry:"1701582325" mask:"W" modified:"1701582330" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"4dc38fb3-7182-43a4-80d4-1e070f432474" wait:"1722450600"]
+---
+time 1701582362
+old [description:"shriya" due:"1707935400" entry:"1701582140" imask:"1" modified:"1701582138" parent:"506672d0-a24d-4974-a468-90b9e1116683" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"f67f855f-1063-40b1-8250-fbfbdb76bb51" wait:"1707676200"]
+new [description:"shriya" due:"1707762600" entry:"1701582140" imask:"1.000000" modified:"1701582362" parent:"506672d0-a24d-4974-a468-90b9e1116683" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"f67f855f-1063-40b1-8250-fbfbdb76bb51" wait:"1707676200"]
+---
+time 1701582363
+old [description:"shriya" due:"1676399400" entry:"1701582138" mask:"+W" modified:"1701582144" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"506672d0-a24d-4974-a468-90b9e1116683" wait:"1676140200"]
+new [description:"shriya" due:"1707762600" entry:"1701582138" mask:"+W" modified:"1701582363" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"506672d0-a24d-4974-a468-90b9e1116683" wait:"1676140200"]
+---
+time 1701582428
+new [description:"parboni" due:"1710441000" entry:"1701582428" modified:"1701582428" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"ea779ab2-0712-4de9-a6af-c7240e002f7e" wait:"1709231400"]
+---
+time 1701582430
+new [description:"parboni" due:"1710441000" entry:"1701582430" imask:"0" modified:"1701582428" parent:"ea779ab2-0712-4de9-a6af-c7240e002f7e" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"pending" uuid:"9985c9e5-da36-4268-9bc0-15869f098aa5" wait:"1709231400"]
+---
+time 1701582430
+old [description:"parboni" due:"1710441000" entry:"1701582428" modified:"1701582428" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"ea779ab2-0712-4de9-a6af-c7240e002f7e" wait:"1709231400"]
+new [description:"parboni" due:"1710441000" entry:"1701582428" mask:"W" modified:"1701582430" project:"pers.birthday" recur:"yearly" rtype:"periodic" status:"recurring" uuid:"ea779ab2-0712-4de9-a6af-c7240e002f7e" wait:"1709231400"]
+---
+time 1701593629
+new [description:"rotation 1" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"ad1a7c39-5cfd-4bb2-afdd-172fc5b7a3c4"]
+---
+time 1701593629
+new [description:"rotation 2" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"491e19dc-2d1a-4abd-965b-603018d05f93"]
+---
+time 1701593629
+new [description:"rotation 3" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"4cd6ec2c-f6fb-42f6-80d6-11c783cfd2bd"]
+---
+time 1701593629
+new [description:"rotation 4" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"202d9b49-4207-4a17-822e-6d21a92295ce"]
+---
+time 1701593629
+new [description:"rotation 5" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"30afde2a-afe1-40f0-98b0-d2280cc95b30"]
+---
+time 1701593629
+new [description:"rotation 6" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"ff889593-10f5-466f-b3c9-89ce392ddad9"]
+---
+time 1701593629
+new [description:"rotation 7" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"65bd256a-516c-4f9a-b8b9-db918938f319"]
+---
+time 1701593630
+new [description:"rotation 8" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"0858b268-1f9f-4025-9649-08b8ffc2c5dc"]
+---
+time 1701593630
+new [description:"rotation 9" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"9f319ff8-e02f-4c2e-8f02-acab47b0b687"]
+---
+time 1701593630
+new [description:"rotation 10" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"febe0e4c-6284-490f-8c2e-918be886588a"]
+---
+time 1701593630
+new [description:"rotation 11" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"a4481a16-77e0-4757-ab3a-ffa75f87368f"]
+---
+time 1701593630
+new [description:"rotation 12" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"5c358a45-de25-4d2e-b74d-649b87df491f"]
+---
+time 1701593630
+new [description:"rotation 13" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"4bff4f61-c697-4610-84a0-983d8de0a360"]
+---
+time 1701593630
+new [description:"rotation 14" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"4dbb344d-03d3-499a-9a22-0fb66bffa173"]
+---
+time 1701593630
+new [description:"rotation 15" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"7ce3c42b-8d07-489c-a14f-26e157c9d5f2"]
+---
+time 1701593630
+new [description:"rotation 16" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"bbd2358f-0f17-4218-9a86-16e9353061cf"]
+---
+time 1701593706
+old [description:"rotation 1" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"ad1a7c39-5cfd-4bb2-afdd-172fc5b7a3c4"]
+new [description:"rotation 1" due:"1702060200" entry:"1701593629" modified:"1701593706" project:"phy.jee.rotation" status:"pending" uuid:"ad1a7c39-5cfd-4bb2-afdd-172fc5b7a3c4"]
+---
+time 1701593706
+old [description:"rotation 2" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"491e19dc-2d1a-4abd-965b-603018d05f93"]
+new [description:"rotation 2" due:"1702060200" entry:"1701593629" modified:"1701593706" project:"phy.jee.rotation" status:"pending" uuid:"491e19dc-2d1a-4abd-965b-603018d05f93"]
+---
+time 1701593707
+old [description:"rotation 3" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"4cd6ec2c-f6fb-42f6-80d6-11c783cfd2bd"]
+new [description:"rotation 3" due:"1702060200" entry:"1701593629" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"4cd6ec2c-f6fb-42f6-80d6-11c783cfd2bd"]
+---
+time 1701593707
+old [description:"rotation 4" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"202d9b49-4207-4a17-822e-6d21a92295ce"]
+new [description:"rotation 4" due:"1702060200" entry:"1701593629" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"202d9b49-4207-4a17-822e-6d21a92295ce"]
+---
+time 1701593707
+old [description:"rotation 5" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"30afde2a-afe1-40f0-98b0-d2280cc95b30"]
+new [description:"rotation 5" due:"1702060200" entry:"1701593629" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"30afde2a-afe1-40f0-98b0-d2280cc95b30"]
+---
+time 1701593707
+old [description:"rotation 6" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"ff889593-10f5-466f-b3c9-89ce392ddad9"]
+new [description:"rotation 6" due:"1702060200" entry:"1701593629" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"ff889593-10f5-466f-b3c9-89ce392ddad9"]
+---
+time 1701593707
+old [description:"rotation 7" due:"1701628199" entry:"1701593629" modified:"1701593629" project:"phy.jee.rotation" status:"pending" uuid:"65bd256a-516c-4f9a-b8b9-db918938f319"]
+new [description:"rotation 7" due:"1702060200" entry:"1701593629" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"65bd256a-516c-4f9a-b8b9-db918938f319"]
+---
+time 1701593707
+old [description:"rotation 8" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"0858b268-1f9f-4025-9649-08b8ffc2c5dc"]
+new [description:"rotation 8" due:"1702060200" entry:"1701593630" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"0858b268-1f9f-4025-9649-08b8ffc2c5dc"]
+---
+time 1701593707
+old [description:"rotation 9" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"9f319ff8-e02f-4c2e-8f02-acab47b0b687"]
+new [description:"rotation 9" due:"1702060200" entry:"1701593630" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"9f319ff8-e02f-4c2e-8f02-acab47b0b687"]
+---
+time 1701593707
+old [description:"rotation 10" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"febe0e4c-6284-490f-8c2e-918be886588a"]
+new [description:"rotation 10" due:"1702060200" entry:"1701593630" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"febe0e4c-6284-490f-8c2e-918be886588a"]
+---
+time 1701593707
+old [description:"rotation 11" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"a4481a16-77e0-4757-ab3a-ffa75f87368f"]
+new [description:"rotation 11" due:"1702060200" entry:"1701593630" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"a4481a16-77e0-4757-ab3a-ffa75f87368f"]
+---
+time 1701593707
+old [description:"rotation 12" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"5c358a45-de25-4d2e-b74d-649b87df491f"]
+new [description:"rotation 12" due:"1702060200" entry:"1701593630" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"5c358a45-de25-4d2e-b74d-649b87df491f"]
+---
+time 1701593708
+old [description:"rotation 13" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"4bff4f61-c697-4610-84a0-983d8de0a360"]
+new [description:"rotation 13" due:"1702060200" entry:"1701593630" modified:"1701593708" project:"phy.jee.rotation" status:"pending" uuid:"4bff4f61-c697-4610-84a0-983d8de0a360"]
+---
+time 1701593708
+old [description:"rotation 14" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"4dbb344d-03d3-499a-9a22-0fb66bffa173"]
+new [description:"rotation 14" due:"1702060200" entry:"1701593630" modified:"1701593708" project:"phy.jee.rotation" status:"pending" uuid:"4dbb344d-03d3-499a-9a22-0fb66bffa173"]
+---
+time 1701593708
+old [description:"rotation 15" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"7ce3c42b-8d07-489c-a14f-26e157c9d5f2"]
+new [description:"rotation 15" due:"1702060200" entry:"1701593630" modified:"1701593708" project:"phy.jee.rotation" status:"pending" uuid:"7ce3c42b-8d07-489c-a14f-26e157c9d5f2"]
+---
+time 1701593708
+old [description:"rotation 16" due:"1701628199" entry:"1701593630" modified:"1701593630" project:"phy.jee.rotation" status:"pending" uuid:"bbd2358f-0f17-4218-9a86-16e9353061cf"]
+new [description:"rotation 16" due:"1702060200" entry:"1701593630" modified:"1701593708" project:"phy.jee.rotation" status:"pending" uuid:"bbd2358f-0f17-4218-9a86-16e9353061cf"]
+---
+time 1701593717
+old [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"-+" modified:"1701581303" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"++" modified:"1701593717" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1701593717
+old [description:"clean earbuds" due:"1701541800" entry:"1701317094" imask:"0" modified:"1701304700" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"c345ada5-0efa-429b-b23e-6ed50acea10e"]
+new [description:"clean earbuds" due:"1701541800" end:"1701593717" entry:"1701317094" imask:"0.000000" modified:"1701593717" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"completed" until:"1749493800" uuid:"c345ada5-0efa-429b-b23e-6ed50acea10e"]
+---
+time 1701597801
+old [description:"lecture 2" due:"1701369000" entry:"1701318015" modified:"1701318350" project:"math.jee.lines" status:"pending" uuid:"10b4d61a-6040-4c54-a4f6-0b4175a4f6a8"]
+new [description:"lecture 2" due:"1701369000" end:"1701597801" entry:"1701318015" modified:"1701597801" project:"math.jee.lines" status:"completed" uuid:"10b4d61a-6040-4c54-a4f6-0b4175a4f6a8"]
+---
+time 1701597844
+old [description:"lecture 3" entry:"1701318015" modified:"1701318015" project:"math.jee.lines" status:"pending" uuid:"eff73c6a-8dab-4932-8a2c-8523864c12a3"]
+new [description:"not done" entry:"1701318015" modified:"1701597844" project:"math.jee.lines" status:"pending" uuid:"eff73c6a-8dab-4932-8a2c-8523864c12a3"]
+---
+time 1701625717
+new [description:"thermo" due:"1701628200" entry:"1701625717" modified:"1701625717" project:"chem.sch.viva" status:"pending" uuid:"1eaabfea-294d-4588-9f00-557737b7d8ad"]
+---
+time 1701625722
+new [description:"equi" due:"1701628200" entry:"1701625722" modified:"1701625722" project:"chem.sch.viva" status:"pending" uuid:"b04ce7fd-478f-4a91-94b1-7fd91685ed02"]
+---
+time 1701625731
+old [description:"thermo" due:"1701628200" entry:"1701625717" modified:"1701625717" project:"chem.sch.viva" status:"pending" uuid:"1eaabfea-294d-4588-9f00-557737b7d8ad"]
+new [description:"thermo" due:"1701628200" entry:"1701625717" modified:"1701625731" project:"chem.sch.viva" start:"1701625731" status:"pending" uuid:"1eaabfea-294d-4588-9f00-557737b7d8ad"]
+---
+time 1701625944
+old [description:"lecture 1" due:"1701369000" entry:"1701318015" modified:"1701318350" project:"math.jee.lines" status:"pending" uuid:"14a6c944-724d-4e91-896f-0cbf2432fa19"]
+new [description:"lecture" due:"1701369000" entry:"1701318015" modified:"1701625944" project:"math.jee.lines" status:"pending" uuid:"14a6c944-724d-4e91-896f-0cbf2432fa19"]
+---
+time 1701625944
+old [description:"not done" entry:"1701318015" modified:"1701597844" project:"math.jee.lines" status:"pending" uuid:"eff73c6a-8dab-4932-8a2c-8523864c12a3"]
+new [description:"lecture" entry:"1701318015" modified:"1701625944" project:"math.jee.lines" status:"pending" uuid:"eff73c6a-8dab-4932-8a2c-8523864c12a3"]
+---
+time 1701625961
+old [description:"lecture" entry:"1701318015" modified:"1701625944" project:"math.jee.lines" status:"pending" uuid:"eff73c6a-8dab-4932-8a2c-8523864c12a3"]
+new [description:"lecture 2" entry:"1701318015" modified:"1701625961" project:"math.jee.lines" status:"pending" uuid:"eff73c6a-8dab-4932-8a2c-8523864c12a3"]
+---
+time 1701625974
+old [description:"lecture" due:"1701369000" entry:"1701318015" modified:"1701625944" project:"math.jee.lines" status:"pending" uuid:"14a6c944-724d-4e91-896f-0cbf2432fa19"]
+new [description:"lecture 3" due:"1701369000" entry:"1701318015" modified:"1701625974" project:"math.jee.lines" status:"pending" uuid:"14a6c944-724d-4e91-896f-0cbf2432fa19"]
+---
+time 1701626038
+new [description:"phy.sch.proj" due:"1704047399" entry:"1701626038" modified:"1701626038" status:"pending" uuid:"08802b2d-7ffb-414b-90a6-9f7ca8cf681f"]
+---
+time 1701626069
+old [description:"phy.sch.proj" due:"1704047399" entry:"1701626038" modified:"1701626038" status:"pending" uuid:"08802b2d-7ffb-414b-90a6-9f7ca8cf681f"]
+new [description:"physics final project" due:"1704047399" entry:"1701626038" modified:"1701626069" project:"phy.sch.proj" status:"pending" uuid:"08802b2d-7ffb-414b-90a6-9f7ca8cf681f"]
+---
+time 1701704930
+old [description:"thermo" due:"1701628200" entry:"1701625717" modified:"1701625731" project:"chem.sch.viva" start:"1701625731" status:"pending" uuid:"1eaabfea-294d-4588-9f00-557737b7d8ad"]
+new [description:"thermo" due:"1701628200" end:"1701704930" entry:"1701625717" modified:"1701704930" project:"chem.sch.viva" status:"completed" uuid:"1eaabfea-294d-4588-9f00-557737b7d8ad"]
+---
+time 1701704930
+old [description:"equi" due:"1701628200" entry:"1701625722" modified:"1701625722" project:"chem.sch.viva" status:"pending" uuid:"b04ce7fd-478f-4a91-94b1-7fd91685ed02"]
+new [description:"equi" due:"1701628200" end:"1701704930" entry:"1701625722" modified:"1701704930" project:"chem.sch.viva" status:"completed" uuid:"b04ce7fd-478f-4a91-94b1-7fd91685ed02"]
+---
+time 1701704941
+old [description:"fiitjee.illustrations" due:"1701369000" entry:"1701318377" modified:"1701324895" project:"math.jee.lines" start:"1701324895" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+new [description:"fiitjee.illustrations" due:"1701714600" entry:"1701318377" modified:"1701704941" project:"math.jee.lines" start:"1701324895" status:"pending" uuid:"60b5e2a2-6903-4846-804e-bbf197cc47a6"]
+---
+time 1701704984
+new [description:"birth" due:"1701628200" entry:"1701704984" modified:"1701704984" project:"eng.sch" status:"pending" uuid:"7a4d5aa4-14f1-4e22-858e-6fa3fe3c13a1"]
+---
+time 1701705000
+new [description:"mothers day" due:"1701628200" entry:"1701705000" modified:"1701705000" project:"eng.sch" status:"pending" uuid:"19c1afe5-6c43-4d81-8207-20d2d74000d7"]
+---
+time 1701705006
+new [description:"voice of rain" due:"1701628200" entry:"1701705006" modified:"1701705006" project:"eng.sch" status:"pending" uuid:"60412ba0-b07f-42e6-bbed-b72b88b30f27"]
+---
+time 1701705016
+new [description:"father to son" due:"1701628200" entry:"1701705016" modified:"1701705016" project:"eng.sch" status:"pending" uuid:"30797d8e-4e58-46e2-b506-68a6118ed169"]
+---
+time 1701705024
+old [description:"birth" due:"1701628200" entry:"1701704984" modified:"1701704984" project:"eng.sch" status:"pending" uuid:"7a4d5aa4-14f1-4e22-858e-6fa3fe3c13a1"]
+new [description:"birth" due:"1701628200" entry:"1701704984" modified:"1701705024" project:"eng.sch" start:"1701705024" status:"pending" uuid:"7a4d5aa4-14f1-4e22-858e-6fa3fe3c13a1"]
+---
+time 1701950064
+old [description:"birth" due:"1701628200" entry:"1701704984" modified:"1701705024" project:"eng.sch" start:"1701705024" status:"pending" uuid:"7a4d5aa4-14f1-4e22-858e-6fa3fe3c13a1"]
+new [description:"birth" due:"1701628200" end:"1701950064" entry:"1701704984" modified:"1701950064" project:"eng.sch" status:"completed" uuid:"7a4d5aa4-14f1-4e22-858e-6fa3fe3c13a1"]
+---
+time 1701950071
+old [description:"rotation 10" due:"1702060200" entry:"1701593630" modified:"1701593707" project:"phy.jee.rotation" status:"pending" uuid:"febe0e4c-6284-490f-8c2e-918be886588a"]
+new [description:"rotation 10" due:"1702060200" end:"1701950071" entry:"1701593630" modified:"1701950071" project:"phy.jee.rotation" status:"completed" uuid:"febe0e4c-6284-490f-8c2e-918be886588a"]
+---
+time 1701950078
+old [description:"mothers day" due:"1701628200" entry:"1701705000" modified:"1701705000" project:"eng.sch" status:"pending" uuid:"19c1afe5-6c43-4d81-8207-20d2d74000d7"]
+new [description:"mothers day" due:"1701628200" end:"1701950078" entry:"1701705000" modified:"1701950078" project:"eng.sch" status:"completed" uuid:"19c1afe5-6c43-4d81-8207-20d2d74000d7"]
+---
+time 1701950099
+new [description:"rotation 10" entry:"1701950099" modified:"1701950099" project:"phy.jee.rotation" status:"pending" uuid:"6dc3757f-72f2-4d59-84ae-5337183ac9ec"]
+---
+time 1701950114
+old [description:"voice of rain" due:"1701628200" entry:"1701705006" modified:"1701705006" project:"eng.sch" status:"pending" uuid:"60412ba0-b07f-42e6-bbed-b72b88b30f27"]
+new [description:"voice of rain" due:"1701628200" end:"1701950114" entry:"1701705006" modified:"1701950114" project:"eng.sch" status:"completed" uuid:"60412ba0-b07f-42e6-bbed-b72b88b30f27"]
+---
+time 1701950114
+old [description:"father to son" due:"1701628200" entry:"1701705016" modified:"1701705016" project:"eng.sch" status:"pending" uuid:"30797d8e-4e58-46e2-b506-68a6118ed169"]
+new [description:"father to son" due:"1701628200" end:"1701950114" entry:"1701705016" modified:"1701950114" project:"eng.sch" status:"completed" uuid:"30797d8e-4e58-46e2-b506-68a6118ed169"]
+---
+time 1703995082
+new [description:"clean earbuds" due:"1702751400" entry:"1703995082" imask:"2" modified:"1701593717" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"f562fac3-223b-4be6-8b79-55f9404128ef"]
+---
+time 1703995082
+new [description:"clean earbuds" due:"1703356200" entry:"1703995082" imask:"3" modified:"1701593717" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"23f8a1f6-03a5-4b1e-bcd0-451fd1590b93"]
+---
+time 1703995082
+new [description:"clean earbuds" due:"1703961000" entry:"1703995082" imask:"4" modified:"1701593717" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"66211464-43c4-4aa6-9cbf-a903aad183fb"]
+---
+time 1703995082
+new [description:"clean earbuds" due:"1704565800" entry:"1703995082" imask:"5" modified:"1701593717" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"45d5e241-05ac-4781-b5dc-19d3241a1c97"]
+---
+time 1703995082
+old [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"++" modified:"1701593717" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"++----" modified:"1703995082" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1704614660
+new [description:"clean earbuds" due:"1705170600" entry:"1704614660" imask:"6" modified:"1703995082" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"ef7c355b-ba68-4608-8c2a-b01c1476f7c4"]
+---
+time 1704614660
+old [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"++----" modified:"1703995082" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"++-----" modified:"1704614660" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1704614725
+new [description:"circle rd" due:"1704565800" entry:"1704614725" modified:"1704614725" project:"math.sch.exam" status:"pending" uuid:"b1f9f76d-6bee-4346-add7-bc12974523e7"]
+---
+time 1704614734
+old [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"++-----" modified:"1704614660" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+new [description:"clean earbuds" due:"1701541800" entry:"1701304700" mask:"++---+-" modified:"1704614734" project:"pers" recur:"weekly" rtype:"periodic" status:"recurring" until:"1749493800" uuid:"9afefaa8-0705-4dc6-8564-2d1292419f53"]
+---
+time 1704614734
+old [description:"clean earbuds" due:"1704565800" entry:"1703995082" imask:"5" modified:"1701593717" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"pending" until:"1749493800" uuid:"45d5e241-05ac-4781-b5dc-19d3241a1c97"]
+new [description:"clean earbuds" due:"1704565800" end:"1704614734" entry:"1703995082" imask:"5.000000" modified:"1704614734" parent:"9afefaa8-0705-4dc6-8564-2d1292419f53" project:"pers" recur:"weekly" rtype:"periodic" status:"completed" until:"1749493800" uuid:"45d5e241-05ac-4781-b5dc-19d3241a1c97"]
+---
+time 1704614750
+new [description:"conic misc" due:"1704565800" entry:"1704614750" modified:"1704614750" project:"math.sch.exam" status:"pending" uuid:"f7e30db7-9d44-4c78-b948-e39db379a873"]
+---
+time 1704614760
+new [description:"seq misc" due:"1704565800" entry:"1704614760" modified:"1704614760" project:"math.sch.exam" status:"pending" uuid:"6224b5b5-9fd9-4851-a850-4c372429b996"]
+---
+time 1704614764
+new [description:"seq rd" due:"1704565800" entry:"1704614764" modified:"1704614764" project:"math.sch.exam" status:"pending" uuid:"7c35bb54-6864-4cdf-8a0e-8152a48b6ccb"]
+---
+time 1704614789
+new [description:"rel - func rd" due:"1704565800" entry:"1704614789" modified:"1704614789" project:"math.sch.exam" status:"pending" uuid:"c5c6f638-3453-45f0-8590-fa0ad835e6fc"]
+---
+time 1704614805
+new [description:"trig rd" due:"1704565800" entry:"1704614805" modified:"1704614805" project:"math.sch.exam" status:"pending" uuid:"215b8584-c6bf-4827-a143-385764c45b6a"]
+---
+time 1704614818
+new [description:"pnc rd" due:"1704565800" entry:"1704614818" modified:"1704614818" project:"math.sch.exam" status:"pending" uuid:"202fa797-7a73-4f1d-a26f-2d738dc43ea8"]
+---
+time 1704614822
+new [description:"pnc misc" due:"1704565800" entry:"1704614822" modified:"1704614822" project:"math.sch.exam" status:"pending" uuid:"8b8881a4-447c-4fa1-89c9-e5076196f2dd"]
+---
+time 1704614834
+new [description:"lines misc" due:"1704565800" entry:"1704614834" modified:"1704614834" project:"math.sch.exam" status:"pending" uuid:"2491152d-1ea6-487f-be93-2450bb8bb0bf"]
+---
+time 1704614837
+new [description:"lines rd" due:"1704565800" entry:"1704614837" modified:"1704614837" project:"math.sch.exam" status:"pending" uuid:"626f4c24-bb7c-470b-82bf-608bce2e00b4"]
+---
+time 1704614849
+new [description:"limits and derivatives rd" due:"1704565800" entry:"1704614849" modified:"1704614849" project:"math.sch.exam" status:"pending" uuid:"c1e3ae44-05b7-4776-8b96-355ba4e99350"]
+---
+time 1704614852
+new [description:"limits and derivatives misc" due:"1704565800" entry:"1704614852" modified:"1704614852" project:"math.sch.exam" status:"pending" uuid:"4b18f1ec-9bec-43fe-b6c3-406d5fd5c89b"]
+---
+time 1704614865
+new [description:"stat ncert" due:"1704565800" entry:"1704614865" modified:"1704614865" project:"math.sch.exam" status:"pending" uuid:"2da45d30-31ec-4422-ba0f-4c087316db1b"]
+---
+time 1704614873
+new [description:"prob misc" due:"1704565800" entry:"1704614873" modified:"1704614873" project:"math.sch.exam" status:"pending" uuid:"41eacf8c-cf66-4134-9d7f-8fc7f51d8900"]
+---
+time 1704614876
+new [description:"prob rd" due:"1704565800" entry:"1704614876" modified:"1704614876" project:"math.sch.exam" status:"pending" uuid:"913e3575-ba34-4f9b-b59f-304ad11ffe87"]
+---
+time 1704638591
+old [description:"seq rd" due:"1704565800" entry:"1704614764" modified:"1704614764" project:"math.sch.exam" status:"pending" uuid:"7c35bb54-6864-4cdf-8a0e-8152a48b6ccb"]
+new [description:"seq rd" due:"1704565800" end:"1704638591" entry:"1704614764" modified:"1704638591" project:"math.sch.exam" status:"completed" uuid:"7c35bb54-6864-4cdf-8a0e-8152a48b6ccb"]
+---
+time 1704638591
+old [description:"rel - func rd" due:"1704565800" entry:"1704614789" modified:"1704614789" project:"math.sch.exam" status:"pending" uuid:"c5c6f638-3453-45f0-8590-fa0ad835e6fc"]
+new [description:"rel - func rd" due:"1704565800" end:"1704638591" entry:"1704614789" modified:"1704638591" project:"math.sch.exam" status:"completed" uuid:"c5c6f638-3453-45f0-8590-fa0ad835e6fc"]
+---
+time 1704673724
+old [description:"conic misc" due:"1704565800" entry:"1704614750" modified:"1704614750" project:"math.sch.exam" status:"pending" uuid:"f7e30db7-9d44-4c78-b948-e39db379a873"]
+new [description:"conic misc" due:"1704565800" end:"1704673724" entry:"1704614750" modified:"1704673724" project:"math.sch.exam" status:"completed" uuid:"f7e30db7-9d44-4c78-b948-e39db379a873"]
+---
+time 1704673728
+old [description:"pnc misc" due:"1704565800" entry:"1704614822" modified:"1704614822" project:"math.sch.exam" status:"pending" uuid:"8b8881a4-447c-4fa1-89c9-e5076196f2dd"]
+new [description:"pnc misc" due:"1704565800" end:"1704673728" entry:"1704614822" modified:"1704673728" project:"math.sch.exam" status:"completed" uuid:"8b8881a4-447c-4fa1-89c9-e5076196f2dd"]
+---
+time 1704673736
+old [description:"prob misc" due:"1704565800" entry:"1704614873" modified:"1704614873" project:"math.sch.exam" status:"pending" uuid:"41eacf8c-cf66-4134-9d7f-8fc7f51d8900"]
+new [description:"prob misc" due:"1704565800" end:"1704673736" entry:"1704614873" modified:"1704673736" project:"math.sch.exam" status:"completed" uuid:"41eacf8c-cf66-4134-9d7f-8fc7f51d8900"]
+---
+time 1704673744
+old [description:"seq misc" due:"1704565800" entry:"1704614760" modified:"1704614760" project:"math.sch.exam" status:"pending" uuid:"6224b5b5-9fd9-4851-a850-4c372429b996"]
+new [description:"seq misc" due:"1704565800" end:"1704673744" entry:"1704614760" modified:"1704673744" project:"math.sch.exam" status:"completed" uuid:"6224b5b5-9fd9-4851-a850-4c372429b996"]
+---
+time 1704673749
+old [description:"trig rd" due:"1704565800" entry:"1704614805" modified:"1704614805" project:"math.sch.exam" status:"pending" uuid:"215b8584-c6bf-4827-a143-385764c45b6a"]
+new [description:"trig rd" due:"1704565800" end:"1704673749" entry:"1704614805" modified:"1704673749" project:"math.sch.exam" status:"completed" uuid:"215b8584-c6bf-4827-a143-385764c45b6a"]
+---
+time 1704673764
+old [description:"stat ncert" due:"1704565800" entry:"1704614865" modified:"1704614865" project:"math.sch.exam" status:"pending" uuid:"2da45d30-31ec-4422-ba0f-4c087316db1b"]
+new [description:"stat ncert" due:"1704565800" end:"1704673764" entry:"1704614865" modified:"1704673764" project:"math.sch.exam" status:"completed" uuid:"2da45d30-31ec-4422-ba0f-4c087316db1b"]
+---
+time 1704673795
+old [description:"lines misc" due:"1704565800" entry:"1704614834" modified:"1704614834" project:"math.sch.exam" status:"pending" uuid:"2491152d-1ea6-487f-be93-2450bb8bb0bf"]
+new [description:"lines misc" due:"1704565800" end:"1704673795" entry:"1704614834" modified:"1704673795" project:"math.sch.exam" status:"completed" uuid:"2491152d-1ea6-487f-be93-2450bb8bb0bf"]
+---
