@@ -37,6 +37,7 @@ require('packer').startup(function(use)
 -- Set the default PDF viewer to zathura
   vim.g.vimtex_view_method = 'zathura'
 
+  vim.opt.clipboard = "unnamedplus"
 
   use { -- Autocompletion
     'hrsh7th/nvim-cmp',
@@ -356,9 +357,6 @@ mason_lspconfig.setup_handlers {
   end,
 }
 
--- Turn on lsp status information
-require('fidget').setup()
-
 -- nvim-cmp setup
 local cmp = require 'cmp'
 local luasnip = require 'luasnip'
@@ -401,7 +399,16 @@ cmp.setup {
     { name = 'luasnip' },
   },
 }
-
+vim.cmd [[command! I execute "normal! a\<CR>\<Tab>\<Esc>:put =strftime('%Y.%m.%d %H:%M')\<CR>"]]
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
+vim.keymap.set('i', '<C-Enter>', '<Esc> :I<CR>', {noremap = true, silent = true})
+vim.cmd([[
+  command! -bang W w<bang>
+  command! -bang Wq wq<bang>
+  command! -bang WQ wq<bang>
+]])
+
+
+
 

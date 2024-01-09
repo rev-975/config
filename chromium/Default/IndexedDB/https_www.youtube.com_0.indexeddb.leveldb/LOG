@@ -1,15 +1,12 @@
-2023/12/20-19:17:49.751 2f7052 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/20-19:17:49.751 2f7052 Recovering log #40
-2023/12/20-19:17:49.795 2f7052 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000040.log 
-2023/12/20-19:18:23.536 2f704f Level-0 table #45: started
-2023/12/20-19:18:23.547 2f704f Level-0 table #45: 1264378 bytes OK
-2023/12/20-19:18:23.553 2f704f Delete type=0 #40
-2023/12/20-19:18:23.554 2f704f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2023/12/20-19:18:23.555 2f704f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x03\xcd\x04\xc1\xd8\xea=yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 50724 : 1
-2023/12/20-19:18:23.555 2f704f Compacting 1@1 + 1@2 files
-2023/12/20-19:18:23.567 2f704f Generated table #46@1: 479 keys, 80947 bytes
-2023/12/20-19:18:23.567 2f704f Compacted 1@1 + 1@2 files => 80947 bytes
-2023/12/20-19:18:23.570 2f704f compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/12/20-19:18:23.571 2f704f Delete type=2 #42
-2023/12/20-19:18:23.571 2f704f Delete type=2 #45
-2023/12/20-19:18:23.572 2f704f Manual compaction at level-1 from '\x00\x08\x01\x1f\x03\xcd\x04\xc1\xd8\xea=yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 50724 : 1 .. (end); will stop at (end)
+2024/01/07-10:41:12.892 360e9 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/07-10:41:12.896 360e9 Recovering log #71
+2024/01/07-10:41:12.925 360e9 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000071.log 
+2024/01/07-10:41:19.719 360db Level-0 table #77: started
+2024/01/07-10:41:19.753 360db Level-0 table #77: 1624225 bytes OK
+2024/01/07-10:41:19.770 360db Delete type=0 #71
+2024/01/07-10:41:21.174 360df Compacting 1@1 + 1@2 files
+2024/01/07-10:41:21.189 360df Generated table #78@1: 454 keys, 88835 bytes
+2024/01/07-10:41:21.189 360df Compacted 1@1 + 1@2 files => 88835 bytes
+2024/01/07-10:41:21.205 360df compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/07-10:41:21.205 360df Delete type=2 #74
+2024/01/07-10:41:21.206 360df Delete type=2 #77

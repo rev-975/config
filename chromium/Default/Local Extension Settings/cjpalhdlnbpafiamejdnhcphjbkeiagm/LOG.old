@@ -1,3 +1,87 @@
-2023/12/23-20:38:18.915 8d134 Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2023/12/23-20:38:18.921 8d134 Recovering log #3052
-2023/12/23-20:38:18.922 8d134 Reusing old log /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/003052.log 
+2024/01/08-19:33:30.104 2c1d3 Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/01/08-19:33:30.109 2c1d3 Recovering log #3753
+2024/01/08-19:33:30.117 2c1d3 Reusing old log /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/003753.log 
+2024/01/08-19:35:35.687 2c1c7 Compacting 3@0 + 3@1 files
+2024/01/08-19:35:35.759 2c1c7 Generated table #3756@0: 10 keys, 2737920 bytes
+2024/01/08-19:35:35.824 2c1c7 Generated table #3757@0: 3 keys, 947503 bytes
+2024/01/08-19:35:36.042 2c1c7 Generated table #3758@0: 3 keys, 5886088 bytes
+2024/01/08-19:35:36.120 2c1c7 Generated table #3759@0: 1 keys, 3719615 bytes
+2024/01/08-19:35:36.234 2c1c7 Generated table #3760@0: 1 keys, 4614496 bytes
+2024/01/08-19:35:36.309 2c1c7 Generated table #3761@0: 1 keys, 3087361 bytes
+2024/01/08-19:35:36.325 2c1c7 Generated table #3762@0: 2 keys, 442119 bytes
+2024/01/08-19:35:36.325 2c1c7 Compacted 3@0 + 3@1 files => 21435102 bytes
+2024/01/08-19:35:36.336 2c1c7 compacted to: files[ 0 7 12 0 0 0 0 ]
+2024/01/08-19:35:36.337 2c1c7 Delete type=2 #3752
+2024/01/08-19:35:36.337 2c1c7 Delete type=2 #3746
+2024/01/08-19:35:36.337 2c1c7 Delete type=2 #3745
+2024/01/08-19:35:36.337 2c1c7 Delete type=2 #3744
+2024/01/08-19:35:36.337 2c1c7 Delete type=2 #3754
+2024/01/08-19:35:36.337 2c1c7 Delete type=2 #3749
+2024/01/08-19:35:36.343 2c1c7 Compacting 1@1 + 8@2 files
+2024/01/08-19:35:36.430 2c1c7 Generated table #3763@1: 9 keys, 2135417 bytes
+2024/01/08-19:35:36.516 2c1c7 Generated table #3764@1: 6 keys, 2599305 bytes
+2024/01/08-19:35:36.644 2c1c7 Generated table #3765@1: 7 keys, 2632644 bytes
+2024/01/08-19:35:36.735 2c1c7 Generated table #3766@1: 6 keys, 2900362 bytes
+2024/01/08-19:35:36.816 2c1c7 Generated table #3767@1: 6 keys, 2669607 bytes
+2024/01/08-19:35:36.951 2c1c7 Generated table #3768@1: 9 keys, 3601727 bytes
+2024/01/08-19:35:37.029 2c1c7 Generated table #3769@1: 8 keys, 2116798 bytes
+2024/01/08-19:35:37.111 2c1c7 Generated table #3770@1: 9 keys, 2165535 bytes
+2024/01/08-19:35:37.112 2c1c7 Compacted 1@1 + 8@2 files => 20821395 bytes
+2024/01/08-19:35:37.121 2c1c7 compacted to: files[ 0 6 12 0 0 0 0 ]
+2024/01/08-19:35:37.122 2c1c7 Delete type=2 #3724
+2024/01/08-19:35:37.122 2c1c7 Delete type=2 #3756
+2024/01/08-19:35:37.122 2c1c7 Delete type=2 #3732
+2024/01/08-19:35:37.122 2c1c7 Delete type=2 #3727
+2024/01/08-19:35:37.123 2c1c7 Delete type=2 #3728
+2024/01/08-19:35:37.123 2c1c7 Delete type=2 #3726
+2024/01/08-19:35:37.123 2c1c7 Delete type=2 #3730
+2024/01/08-19:35:37.123 2c1c7 Delete type=2 #3729
+2024/01/08-19:35:37.123 2c1c7 Delete type=2 #3725
+2024/01/08-19:35:37.131 2c1c7 Compacting 1@1 + 2@2 files
+2024/01/08-19:35:37.207 2c1c7 Generated table #3771@1: 9 keys, 2165827 bytes
+2024/01/08-19:35:37.243 2c1c7 Generated table #3772@1: 1 keys, 841235 bytes
+2024/01/08-19:35:37.243 2c1c7 Compacted 1@1 + 2@2 files => 3007062 bytes
+2024/01/08-19:35:37.252 2c1c7 compacted to: files[ 0 5 12 0 0 0 0 ]
+2024/01/08-19:35:37.253 2c1c7 Delete type=2 #3770
+2024/01/08-19:35:37.253 2c1c7 Delete type=2 #3757
+2024/01/08-19:35:37.253 2c1c7 Delete type=2 #3733
+2024/01/08-19:35:37.254 2c1c7 Compacting 1@1 + 2@2 files
+2024/01/08-19:35:37.355 2c1c7 Generated table #3773@1: 9 keys, 2787552 bytes
+2024/01/08-19:35:37.602 2c1c7 Generated table #3774@1: 7 keys, 6666317 bytes
+2024/01/08-19:35:37.604 2c1c7 Compacted 1@1 + 2@2 files => 9453869 bytes
+2024/01/08-19:35:37.616 2c1c7 compacted to: files[ 0 4 12 0 0 0 0 ]
+2024/01/08-19:35:37.617 2c1c7 Delete type=2 #3734
+2024/01/08-19:35:37.617 2c1c7 Delete type=2 #3758
+2024/01/08-19:35:37.618 2c1c7 Delete type=2 #3735
+2024/01/08-19:35:37.633 2c1c7 Moved #3759 to level-2 3719615 bytes OK: files[ 0 3 13 0 0 0 0 ]
+2024/01/08-19:37:36.656 2c1c7 Level-0 table #3776: started
+2024/01/08-19:37:36.738 2c1c7 Level-0 table #3776: 5900890 bytes OK
+2024/01/08-19:37:36.748 2c1c7 Delete type=0 #3753
+2024/01/08-19:37:36.906 2c1c7 Level-0 table #3778: started
+2024/01/08-19:37:36.962 2c1c7 Level-0 table #3778: 4610479 bytes OK
+2024/01/08-19:37:36.971 2c1c7 Delete type=0 #3775
+2024/01/08-19:37:37.318 2c1c7 Level-0 table #3780: started
+2024/01/08-19:37:37.347 2c1c6 Current memtable full; waiting...
+2024/01/08-19:37:37.454 2c1c7 Level-0 table #3780: 4198877 bytes OK
+2024/01/08-19:37:37.465 2c1c7 Delete type=0 #3777
+2024/01/08-19:37:37.470 2c1c7 Level-0 table #3782: started
+2024/01/08-19:37:37.526 2c1c7 Level-0 table #3782: 3091659 bytes OK
+2024/01/08-19:37:37.537 2c1c7 Delete type=0 #3779
+2024/01/08-19:37:37.540 2c1c7 Compacting 4@0 + 3@1 files
+2024/01/08-19:37:37.596 2c1c7 Generated table #3783@0: 6 keys, 30933 bytes
+2024/01/08-19:37:37.684 2c1c7 Generated table #3784@0: 2 keys, 5357404 bytes
+2024/01/08-19:37:37.770 2c1c7 Generated table #3785@0: 1 keys, 3720995 bytes
+2024/01/08-19:37:37.912 2c1c7 Generated table #3786@0: 1 keys, 4606365 bytes
+2024/01/08-19:37:38.007 2c1c7 Generated table #3787@0: 1 keys, 3087743 bytes
+2024/01/08-19:37:38.028 2c1c7 Generated table #3788@0: 3 keys, 477756 bytes
+2024/01/08-19:37:38.028 2c1c7 Compacted 4@0 + 3@1 files => 17281196 bytes
+2024/01/08-19:37:38.037 2c1c7 compacted to: files[ 0 6 13 0 0 0 0 ]
+2024/01/08-19:37:38.039 2c1c7 Delete type=2 #3762
+2024/01/08-19:37:38.039 2c1c7 Delete type=2 #3782
+2024/01/08-19:37:38.039 2c1c7 Delete type=2 #3776
+2024/01/08-19:37:38.040 2c1c7 Delete type=2 #3780
+2024/01/08-19:37:38.040 2c1c7 Delete type=2 #3760
+2024/01/08-19:37:38.040 2c1c7 Delete type=2 #3761
+2024/01/08-19:37:38.041 2c1c7 Delete type=2 #3778
+2024/01/08-19:37:38.068 2c1c7 Moved #3786 to level-2 4606365 bytes OK: files[ 0 5 14 0 0 0 0 ]
+2024/01/08-19:37:38.078 2c1c7 Moved #3787 to level-2 3087743 bytes OK: files[ 0 4 15 0 0 0 0 ]
