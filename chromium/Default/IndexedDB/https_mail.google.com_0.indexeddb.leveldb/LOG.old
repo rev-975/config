@@ -1,9 +1,21 @@
-2024/01/08-16:57:36.501 19aa63 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/08-16:57:36.502 19aa63 Recovering log #190
-2024/01/08-16:57:36.510 19aa63 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000190.log 
-2024/01/08-16:57:39.428 19aa62 Compacting 1@1 + 1@2 files
-2024/01/08-16:57:39.451 19aa62 Generated table #193@1: 175 keys, 408009 bytes
-2024/01/08-16:57:39.451 19aa62 Compacted 1@1 + 1@2 files => 408009 bytes
-2024/01/08-16:57:39.467 19aa62 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/01/08-16:57:39.468 19aa62 Delete type=2 #188
-2024/01/08-16:57:39.468 19aa62 Delete type=2 #191
+2024/01/24-20:17:14.930 cc239 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/24-20:17:14.931 cc239 Recovering log #231
+2024/01/24-20:17:14.932 cc239 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000231.log 
+2024/01/24-20:17:17.992 cc239 Compacting 1@1 + 1@2 files
+2024/01/24-20:17:18.010 cc239 Generated table #234@1: 257 keys, 694358 bytes
+2024/01/24-20:17:18.010 cc239 Compacted 1@1 + 1@2 files => 694358 bytes
+2024/01/24-20:17:18.020 cc239 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/24-20:17:18.021 cc239 Delete type=2 #232
+2024/01/24-20:17:18.021 cc239 Delete type=2 #229
+2024/01/24-20:19:19.121 cc23a Level-0 table #236: started
+2024/01/24-20:19:19.169 cc23a Level-0 table #236: 1691115 bytes OK
+2024/01/24-20:19:19.182 cc23a Delete type=0 #231
+2024/01/24-20:19:19.184 cc23a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/01/24-20:19:19.185 cc23a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 142880 : 1
+2024/01/24-20:19:19.185 cc23a Compacting 1@1 + 1@2 files
+2024/01/24-20:19:19.209 cc23a Generated table #237@1: 63 keys, 15471 bytes
+2024/01/24-20:19:19.209 cc23a Compacted 1@1 + 1@2 files => 15471 bytes
+2024/01/24-20:19:19.218 cc23a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/24-20:19:19.219 cc23a Delete type=2 #236
+2024/01/24-20:19:19.219 cc23a Delete type=2 #234
+2024/01/24-20:19:19.221 cc23a Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 142880 : 1 .. (end); will stop at (end)

@@ -65,7 +65,9 @@ require('packer').startup(function(use)
   use {'ishan9299/modus-theme-vim'}
   use {'twerth/ir_black'}
   use 'nvim-lualine/lualine.nvim' -- Fancier statusline
---  use 'lukas-reineke/indent-blankline.nvim' -- Add indentation guides even on blank lines
+  use 'lukas-reineke/indent-blankline.nvim' -- Add indentation guides even on blank lines
+	require("ibl").setup()
+
 --  use 'numToStr/Comment.nvim' -- "gc" to comment visual regions/lines
 --  use 'tpope/vim-sleuth' -- Detect tabstop and shiftwidth automatically
 
@@ -120,7 +122,7 @@ vim.o.smartcase = true
 vim.o.updatetime = 250
 vim.wo.signcolumn = 'yes'
 vim.o.termguicolors = true
-vim.cmd [[colorscheme oxocarbon]]
+vim.cmd [[colorscheme ir_black]]
 vim.o.completeopt = 'menuone,noselect'
 --  NOTE: Must happen before plugins are required (otherwise wrong leader will be used)
 vim.g.mapleader = ' '
@@ -399,6 +401,7 @@ cmp.setup {
     { name = 'luasnip' },
   },
 }
+
 vim.cmd [[command! I execute "normal! a\<CR>\<Tab>\<Esc>:put =strftime('%Y.%m.%d %H:%M')\<CR>"]]
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et
@@ -408,7 +411,5 @@ vim.cmd([[
   command! -bang Wq wq<bang>
   command! -bang WQ wq<bang>
 ]])
-
-
 
 

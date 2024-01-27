@@ -1,14 +1,14 @@
-2023/11/12-16:18:25.220 c1e6d Reusing MANIFEST /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2023/11/12-16:18:25.221 c1e6d Recovering log #13
-2023/11/12-16:18:25.221 c1e6d Reusing old log /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/000013.log 
-2023/11/12-16:18:25.256 c1e6f Level-0 table #19: started
-2023/11/12-16:18:25.258 c1e6f Level-0 table #19: 765 bytes OK
-2023/11/12-16:18:25.261 c1e6f Delete type=0 #13
-2023/11/12-16:18:25.261 c1e6c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/12-16:18:25.261 c1e6f Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0\xfc\x9c-\xbcxB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 592 : 0
-2023/11/12-16:18:25.261 c1e6f Compacting 1@1 + 1@2 files
-2023/11/12-16:18:25.264 c1e6f Generated table #20@1: 23 keys, 775 bytes
-2023/11/12-16:18:25.264 c1e6f Compacted 1@1 + 1@2 files => 775 bytes
-2023/11/12-16:18:25.268 c1e6f compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/12-16:18:25.268 c1e6f Delete type=2 #19
-2023/11/12-16:18:25.268 c1e79 Manual compaction at level-1 from '\x00\x05\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xc0\xfc\x9c-\xbcxB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 592 : 0 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/22-10:54:47.015 6cd54 Reusing MANIFEST /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/22-10:54:47.016 6cd54 Recovering log #32
+2024/01/22-10:54:47.016 6cd54 Reusing old log /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/000032.log 
+2024/01/22-10:54:47.045 6cd61 Level-0 table #37: started
+2024/01/22-10:54:47.052 6cd61 Level-0 table #37: 755 bytes OK
+2024/01/22-10:54:47.069 6cd61 Delete type=0 #32
+2024/01/22-10:54:47.069 6cd54 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/22-10:54:47.070 6cd54 Manual compaction at level-1 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00pn\x7f\xbc\xd0xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1084 : 0
+2024/01/22-10:54:47.070 6cd54 Compacting 1@1 + 1@2 files
+2024/01/22-10:54:47.078 6cd54 Generated table #38@1: 42 keys, 1098 bytes
+2024/01/22-10:54:47.079 6cd54 Compacted 1@1 + 1@2 files => 1098 bytes
+2024/01/22-10:54:47.099 6cd54 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/22-10:54:47.100 6cd54 Delete type=2 #37
+2024/01/22-10:54:47.101 6cd54 Manual compaction at level-1 from '\x00\x09\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00pn\x7f\xbc\xd0xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1084 : 0 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

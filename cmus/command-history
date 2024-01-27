@@ -1,1 +1,52 @@
+add ~/pers/mus/playlists/classical/Fabrizio Paterlini - My Misty Mornings.mp3
+add ~/pers/mus/playlists/classical/Niccolò Paganini, David Garrett, Alexander Markovich - La Campanella, Op. 7 - Arr. August Wilhelmj- arr. August Wilhelmj.mp3
+add
+add ~/pers/mus/playlists/classical/Frédéric Chopin, Alexandre Tharaud - Preludes, Op. 28- No. 4, Largo.mp3
+add ~/pers/mus/cl
+add 
+colorscheme night
+colorscheme gruvbox
+colorscheme green-mono-88
+colorscheme cyan
+colorscheme amazon
 q
+filter 
+add ~/pers/mus/playlists/classical/London Symphony Orchestra - 'In The Hall Of The Mountain King' from Peer Gynt Suite N°1, Op. 46.mp3
+add ~/pers/mus/playlists/pop/Link Lauren - I Love It When Hot Guys Cry.mp3
+add ~/pers/mus/playlists/pop/Anirudh Ravichander - VIP Title Song.mp3
+add ~/pers/mus/playlists/pop/Anirudh Ravichander, Dhanush - Udhungada Sangu (From 'Velai Illa Pattadhaari').mp3
+add ~/pers/mus/playlists/pop/A.R. Rahman, Jonita Gandhi - Mental Manadhil.mp3
+pl-rename flashing lights
+pl
+add ~/pers/mus/playlists/indie/Taaruk Raina - Sukoon.mp3
+add ~/pers/mus
+clear 
+add ~/pers/mus/playlists/rap/Chaar Diwaari - Jhaag.mp3
+colorscheme jellybeans
+colorscheme gruvbox-warm
+colorscheme gruvbox-alt
+add ~/pers/mus/playlists/indie/Zaeden, Lisa Mishra - Aa Mil.mp3
+add ~/pers/mus/playlists/indie/Kamal. - free flow.mp3
+w
+add pers/mus/playlists/indie/
+pl-create insufferable and somewhat resentful
+add pers/mus/playlists/indie/Nanku, Lil Kabeer, Shounok Banerjee - D K B N.mp3
+colorscheme dracula
+add ~/pers/mus/playlists/rap/Chaar Diwaari, Nanku, rohanyv - Bhool Ja.mp3
+add pers/mus/playlists/indie/Prateek Kuhad - Co2.mp3
+add pers/mus/playlists/pop/Dheeme dheeme.webm
+add pers/mus/playlists/pop/Coca cola.webm
+pl-create flashing-lights
+add pers/mus/playlists/rap/Chaar Diwaari, Sminil Agale, K . Shah, Kya.scene - Enjaay.mp3
+add pers/mus/playlists/indie/Taaruk Raina - Narazi.mp3
+add pers/mus/playlists/indie/Anuv Jain - Husn.mp3
+add pers/mus/playlists/indie/Stephen Dawes - Teenage Dream.mp3
+add pers/mus/playlists/indie/Dhruv - double take.mp3
+add pers/mus/playlists/alt/The Technicolors - Tonight You Are Mine.mp3
+add pers/mus/playlists/alt/The Technicolors - Neon Roses.mp3
+bind
+pl-export
+unbind
+colorscheme zenburn
+colorscheme default
+add ~/pers/mus/playlists/

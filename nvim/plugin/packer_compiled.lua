@@ -99,6 +99,11 @@ _G.packer_plugins = {
     path = "/home/etheroot/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
   },
+  ["indent-blankline.nvim"] = {
+    loaded = true,
+    path = "/home/etheroot/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+    url = "https://github.com/lukas-reineke/indent-blankline.nvim"
+  },
   ir_black = {
     loaded = true,
     path = "/home/etheroot/.local/share/nvim/site/pack/packer/start/ir_black",

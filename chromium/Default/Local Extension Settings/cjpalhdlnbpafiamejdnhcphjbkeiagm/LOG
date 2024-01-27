@@ -1,3 +1,76 @@
-2024/01/09-11:51:46.400 913a7 Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/01/09-11:51:46.404 913a7 Recovering log #3781
-2024/01/09-11:51:46.414 913a7 Reusing old log /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/003781.log 
+2024/01/27-10:53:44.074 a2c59 Reusing MANIFEST /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/01/27-10:53:44.077 a2c59 Recovering log #6240
+2024/01/27-10:53:44.078 a2c59 Reusing old log /home/etheroot/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/006240.log 
+2024/01/27-10:55:30.920 a2c4e Level-0 table #6261: started
+2024/01/27-10:55:30.964 a2c4e Level-0 table #6261: 1989978 bytes OK
+2024/01/27-10:55:30.973 a2c4e Delete type=0 #6240
+2024/01/27-10:55:31.276 a2c4d Level-0 table #6263: started
+2024/01/27-10:55:31.320 a2c4d Level-0 table #6263: 1531873 bytes OK
+2024/01/27-10:55:31.327 a2c4d Delete type=0 #6260
+2024/01/27-10:57:35.111 a2c4e Level-0 table #6265: started
+2024/01/27-10:57:35.130 a2c4d Current memtable full; waiting...
+2024/01/27-10:57:35.198 a2c4e Level-0 table #6265: 6822837 bytes OK
+2024/01/27-10:57:35.212 a2c4e Delete type=0 #6262
+2024/01/27-10:57:35.223 a2c4e Compacting 4@0 + 2@1 files
+2024/01/27-10:57:35.261 a2c4e Level-0 table #6267: started
+2024/01/27-10:57:35.318 a2c4e Level-0 table #6267: 4843335 bytes OK
+2024/01/27-10:57:35.328 a2c4e Delete type=0 #6264
+2024/01/27-10:57:35.375 a2c4e Generated table #6268@0: 6 keys, 2520358 bytes
+2024/01/27-10:57:35.386 a2c4e Generated table #6269@0: 1 keys, 6520 bytes
+2024/01/27-10:57:35.471 a2c4e Generated table #6270@0: 4 keys, 6790273 bytes
+2024/01/27-10:57:35.501 a2c4e Generated table #6271@0: 12 keys, 877309 bytes
+2024/01/27-10:57:35.501 a2c4e Compacted 4@0 + 2@1 files => 10194460 bytes
+2024/01/27-10:57:35.510 a2c4e compacted to: files[ 1 4 15 0 0 0 0 ]
+2024/01/27-10:57:35.510 a2c4e Delete type=2 #6245
+2024/01/27-10:57:35.510 a2c4e Delete type=2 #6244
+2024/01/27-10:57:35.510 a2c4e Delete type=2 #6263
+2024/01/27-10:57:35.511 a2c4e Delete type=2 #6265
+2024/01/27-10:57:35.511 a2c4e Delete type=2 #6261
+2024/01/27-10:57:35.511 a2c4e Delete type=2 #6241
+2024/01/27-10:57:35.514 a2c4e Level-0 table #6273: started
+2024/01/27-10:57:35.525 a2c4d Current memtable full; waiting...
+2024/01/27-10:57:35.568 a2c4e Level-0 table #6273: 4723673 bytes OK
+2024/01/27-10:57:35.580 a2c4e Delete type=0 #6266
+2024/01/27-10:57:35.586 a2c4e Level-0 table #6275: started
+2024/01/27-10:57:35.655 a2c4e Level-0 table #6275: 3434284 bytes OK
+2024/01/27-10:57:35.666 a2c4e Delete type=0 #6272
+2024/01/27-10:58:55.868 a2c4e Level-0 table #6277: started
+2024/01/27-10:58:55.926 a2c4e Level-0 table #6277: 4775522 bytes OK
+2024/01/27-10:58:55.939 a2c4e Delete type=0 #6274
+2024/01/27-10:58:55.945 a2c4e Compacting 4@0 + 4@1 files
+2024/01/27-10:58:56.025 a2c4e Generated table #6278@0: 6 keys, 2520397 bytes
+2024/01/27-10:58:56.035 a2c4e Generated table #6279@0: 1 keys, 6520 bytes
+2024/01/27-10:58:56.132 a2c4e Generated table #6280@0: 4 keys, 6790280 bytes
+2024/01/27-10:58:56.183 a2c4e Generated table #6281@0: 1 keys, 4288731 bytes
+2024/01/27-10:58:56.262 a2c4e Generated table #6282@0: 1 keys, 4843335 bytes
+2024/01/27-10:58:56.307 a2c4e Generated table #6283@0: 1 keys, 3434284 bytes
+2024/01/27-10:58:56.339 a2c4e Generated table #6284@0: 10 keys, 1785842 bytes
+2024/01/27-10:58:56.339 a2c4e Compacted 4@0 + 4@1 files => 23669389 bytes
+2024/01/27-10:58:56.348 a2c4e compacted to: files[ 0 7 15 0 0 0 0 ]
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6271
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6277
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6268
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6275
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6273
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6270
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6269
+2024/01/27-10:58:56.349 a2c4e Delete type=2 #6267
+2024/01/27-10:58:56.364 a2c4e Moved #6281 to level-2 4288731 bytes OK: files[ 0 6 16 0 0 0 0 ]
+2024/01/27-10:58:56.364 a2c4e Compacting 1@1 + 1@2 files
+2024/01/27-10:58:56.440 a2c4e Generated table #6285@1: 1 keys, 4843335 bytes
+2024/01/27-10:58:56.442 a2c4e Compacted 1@1 + 1@2 files => 4843335 bytes
+2024/01/27-10:58:56.452 a2c4e compacted to: files[ 0 5 16 0 0 0 0 ]
+2024/01/27-10:58:56.453 a2c4e Delete type=2 #6235
+2024/01/27-10:58:56.453 a2c4e Delete type=2 #6282
+2024/01/27-10:58:56.458 a2c4e Compacting 1@1 + 1@2 files
+2024/01/27-10:58:56.542 a2c4e Generated table #6286@1: 1 keys, 3434284 bytes
+2024/01/27-10:58:56.543 a2c4e Compacted 1@1 + 1@2 files => 3434284 bytes
+2024/01/27-10:58:56.552 a2c4e compacted to: files[ 0 4 16 0 0 0 0 ]
+2024/01/27-10:58:56.553 a2c4e Delete type=2 #6246
+2024/01/27-10:58:56.553 a2c4e Delete type=2 #6283
+2024/01/27-10:58:56.554 a2c4e Compacting 1@1 + 1@2 files
+2024/01/27-10:58:56.594 a2c4e Generated table #6287@1: 33 keys, 1921808 bytes
+2024/01/27-10:58:56.595 a2c4e Compacted 1@1 + 1@2 files => 1921808 bytes
+2024/01/27-10:58:56.605 a2c4e compacted to: files[ 0 3 16 0 0 0 0 ]
+2024/01/27-10:58:56.605 a2c4e Delete type=2 #6284
+2024/01/27-10:58:56.605 a2c4e Delete type=2 #6248

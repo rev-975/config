@@ -1,3 +1,9 @@
-2024/01/05-15:11:29.248 b2ee7 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/05-15:11:29.248 b2ee7 Recovering log #71
-2024/01/05-15:11:29.270 b2ee7 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000071.log 
+2024/01/20-13:47:55.356 1f5cc7 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/20-13:47:55.357 1f5cc7 Recovering log #96
+2024/01/20-13:47:55.360 1f5cc7 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000096.log 
+2024/01/20-13:47:55.399 1f5cca Compacting 1@1 + 1@2 files
+2024/01/20-13:47:55.408 1f5cca Generated table #99@1: 381 keys, 68919 bytes
+2024/01/20-13:47:55.408 1f5cca Compacted 1@1 + 1@2 files => 68919 bytes
+2024/01/20-13:47:55.412 1f5cca compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/20-13:47:55.413 1f5cca Delete type=2 #94
+2024/01/20-13:47:55.413 1f5cca Delete type=2 #97

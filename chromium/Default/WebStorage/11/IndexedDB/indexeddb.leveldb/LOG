@@ -1,27 +1,18 @@
-2023/11/19-13:35:36.640 16a63c Reusing MANIFEST /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2023/11/19-13:35:36.641 16a63c Recovering log #18
-2023/11/19-13:35:36.642 16a63c Reusing old log /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/000018.log 
-2023/11/19-13:35:36.642 16a63c Delete type=2 #16
-2023/11/19-13:35:36.884 16a64d Level-0 table #23: started
-2023/11/19-13:35:36.894 16a64d Level-0 table #23: 7431 bytes OK
-2023/11/19-13:35:36.911 16a64d Delete type=0 #18
-2023/11/19-13:35:36.911 16a640 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/19-13:35:42.532 16a63d Level-0 table #25: started
-2023/11/19-13:35:42.538 16a63d Level-0 table #25: 8357 bytes OK
-2023/11/19-13:35:42.547 16a63d Delete type=0 #22
-2023/11/19-13:35:42.547 16a63d Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x08\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 819 : 1
-2023/11/19-13:35:42.547 16a63d Compacting 1@0 + 1@1 files
-2023/11/19-13:35:42.554 16a63d Generated table #26@0: 122 keys, 7191 bytes
-2023/11/19-13:35:42.554 16a63d Compacted 1@0 + 1@1 files => 7191 bytes
-2023/11/19-13:35:42.561 16a63d compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/19-13:35:42.562 16a63d Delete type=2 #23
-2023/11/19-13:35:42.562 16a63d Delete type=2 #25
-2023/11/19-13:35:42.563 16a63d Manual compaction at level-0 from '\x00\x08\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 819 : 1 .. (end); will stop at (end)
-2023/11/19-13:35:42.563 16a63d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 819 : 1
-2023/11/19-13:35:42.563 16a63d Compacting 1@1 + 1@2 files
-2023/11/19-13:35:42.569 16a63d Generated table #27@1: 63 keys, 6672 bytes
-2023/11/19-13:35:42.570 16a63d Compacted 1@1 + 1@2 files => 6672 bytes
-2023/11/19-13:35:42.576 16a63d compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/11/19-13:35:42.576 16a63d Delete type=2 #26
-2023/11/19-13:35:42.576 16a63d Delete type=2 #20
-2023/11/19-13:35:42.577 16a63d Manual compaction at level-1 from '\x00\x08\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 819 : 1 .. (end); will stop at (end)
+2024/01/26-20:06:58.000 2c3716 Reusing MANIFEST /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/26-20:06:58.000 2c3716 Recovering log #36
+2024/01/26-20:06:58.000 2c3716 Reusing old log /home/etheroot/.config/chromium/Default/WebStorage/11/IndexedDB/indexeddb.leveldb/000036.log 
+2024/01/26-20:06:58.000 2c3716 Delete type=2 #34
+2024/01/26-20:06:58.039 2c3715 Level-0 table #41: started
+2024/01/26-20:06:58.047 2c3715 Level-0 table #41: 8207 bytes OK
+2024/01/26-20:06:58.057 2c3715 Delete type=0 #36
+2024/01/26-20:06:58.060 2c3722 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/26-20:07:35.946 2c3718 Level-0 table #43: started
+2024/01/26-20:07:35.956 2c3718 Level-0 table #43: 5845 bytes OK
+2024/01/26-20:07:35.973 2c3718 Delete type=0 #40
+2024/01/26-20:07:35.974 2c3718 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x80\xcc=c\xd4xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1333 : 1
+2024/01/26-20:07:35.974 2c3718 Compacting 1@0 + 1@1 files
+2024/01/26-20:07:35.985 2c3718 Generated table #44@0: 65 keys, 1217 bytes
+2024/01/26-20:07:35.985 2c3718 Compacted 1@0 + 1@1 files => 1217 bytes
+2024/01/26-20:07:35.998 2c3718 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/26-20:07:35.999 2c3718 Delete type=2 #43
+2024/01/26-20:07:35.999 2c3715 Manual compaction at level-0 from '\x00\x0b\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x80\xcc=c\xd4xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1333 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,6 +1,3 @@
-2024/01/08-19:33:43.207 2c1c6 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/08-19:33:43.208 2c1c6 Recovering log #190
-2024/01/08-19:33:43.232 2c1c6 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000190.log 
-2024/01/08-19:33:50.230 2c1c7 Level-0 table #196: started
-2024/01/08-19:33:50.326 2c1c7 Level-0 table #196: 2670228 bytes OK
-2024/01/08-19:33:50.348 2c1c7 Delete type=0 #190
+2024/01/26-08:06:16.384 1be582 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/26-08:06:16.385 1be582 Recovering log #235
+2024/01/26-08:06:16.385 1be582 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000235.log 

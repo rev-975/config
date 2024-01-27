@@ -1,11 +1,11 @@
 {
-   "checksum": "3f75d07c210f4edcdfd359d44c9911e8",
+   "checksum": "b308dc4a06d6adbc61eb3975fb95e6b8",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
                "date_added": "13344451014750525",
-               "date_last_used": "0",
+               "date_last_used": "13350058695926672",
                "guid": "853a0d32-d4dd-46a9-ab47-1a953cef3b1a",
                "id": "8",
                "name": "blog vim",
@@ -164,30 +164,6 @@
                "type": "url",
                "url": "https://news.ycombinator.com/item?id=22682837"
             }, {
-               "date_added": "13344451014760063",
-               "date_last_used": "0",
-               "guid": "36f1ee56-311e-42b0-a4ba-a4045dcb3166",
-               "id": "28",
-               "name": "www.marginalia.nu @ marginalia.nu",
-               "type": "url",
-               "url": "https://www.marginalia.nu/"
-            }, {
-               "date_added": "13344451014760547",
-               "date_last_used": "0",
-               "guid": "30c1a0d2-7b36-44c7-8fb7-80298a6adf63",
-               "id": "29",
-               "name": "Weblog @ marginalia.nu",
-               "type": "url",
-               "url": "https://www.marginalia.nu/log/"
-            }, {
-               "date_added": "13344451014760970",
-               "date_last_used": "0",
-               "guid": "ff306ecc-f3d1-4878-acae-5d6a5320afd8",
-               "id": "30",
-               "name": "blog of stigok",
-               "type": "url",
-               "url": "https://blog.stigok.com/"
-            }, {
                "date_added": "13344451014761396",
                "date_last_used": "0",
                "guid": "a4d44ac9-1e86-4165-9360-33430c17322b",
@@ -196,14 +172,6 @@
                "type": "url",
                "url": "https://blog.plenz.com/2011-08/statically-linking-dwm-against-x11-and-xcb.html"
             }, {
-               "date_added": "13344451014761874",
-               "date_last_used": "0",
-               "guid": "a331ac27-bfbe-4078-8591-f07f7aac9878",
-               "id": "32",
-               "name": "Einar's blog",
-               "type": "url",
-               "url": "https://mostad.eu/"
-            }, {
                "date_added": "13344451014762315",
                "date_last_used": "0",
                "guid": "903377e1-ee5d-4007-90b0-9477f323443c",
@@ -211,14 +179,6 @@
                "name": "UNIX is sublime",
                "type": "url",
                "url": "https://0x19.org/posts/2022-07-30.php"
-            }, {
-               "date_added": "13344451014762790",
-               "date_last_used": "0",
-               "guid": "44297364-7033-4a14-a4d9-4d152984b2f2",
-               "id": "34",
-               "name": "Resources",
-               "type": "url",
-               "url": "https://0x19.org/resources.php"
             }, {
                "date_added": "13344451014763204",
                "date_last_used": "0",
@@ -372,20 +332,20 @@
                "type": "url",
                "url": "https://emailselfdefense.fsf.org/en/"
             }, {
-               "date_added": "13347786392666909",
+               "date_added": "13349815696916898",
                "date_last_used": "0",
-               "guid": "cf7829f7-8f2f-414e-ace1-cad37df91baa",
+               "guid": "17cd2207-a96d-406a-9dc2-1586c0b9286d",
                "id": "55",
                "meta_info": {
                   "power_bookmark_meta": ""
                },
-               "name": "earthgirlrecs on Tumblr",
+               "name": "Projects - by Siddhesh - Obvious Bicycle",
                "type": "url",
-               "url": "https://www.tumblr.com/earthgirlrecs"
+               "url": "https://siddhesh.substack.com/p/projects"
             } ],
             "date_added": "13344451014747466",
             "date_last_used": "0",
-            "date_modified": "13347786398383722",
+            "date_modified": "13349815696916898",
             "guid": "8717cc76-d4fa-4f15-8651-b68a5ddee3b1",
             "id": "5",
             "name": "New folder",

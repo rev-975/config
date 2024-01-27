@@ -1,3 +1,3 @@
-2023/12/04-15:39:42.920 b9121 Reusing MANIFEST /home/etheroot/.config/chromium/Profile 1/Sync Data/LevelDB/MANIFEST-000001
-2023/12/04-15:39:42.921 b9121 Recovering log #3
-2023/12/04-15:39:42.924 b9121 Reusing old log /home/etheroot/.config/chromium/Profile 1/Sync Data/LevelDB/000003.log 
+2024/01/12-13:15:19.667 137898 Reusing MANIFEST /home/etheroot/.config/chromium/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2024/01/12-13:15:19.669 137898 Recovering log #3
+2024/01/12-13:15:19.670 137898 Reusing old log /home/etheroot/.config/chromium/Profile 1/Sync Data/LevelDB/000003.log 

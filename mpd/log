@@ -414,3 +414,23 @@ Jan 06 21:32 : exception: Failed to access /home/etheroot/pers/mus/lib/lib64: No
 Jan 06 21:32 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
 Jan 06 21:32 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
 Jan 06 21:32 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 11 21:56 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 11 21:56 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 11 22:04 : player: played "playlists/indie/Sachet Tandon, Sachet-Parampara - Bekhayali (From 'Kabir Singh').mp3"
+Jan 11 22:04 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 11 22:14 : player: played "playlists/indie/Sachet Tandon, Sachet-Parampara - Bekhayali (From 'Kabir Singh').mp3"
+Jan 11 22:15 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 11 22:16 : player: played "playlists/indie/Sachet Tandon, Sachet-Parampara - Bekhayali (From 'Kabir Singh').mp3"
+Jan 11 22:58 : player: played "playlists/indie/Sachet Tandon, Sachet-Parampara - Bekhayali (From 'Kabir Singh').mp3"
+Jan 12 07:58 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 12 07:59 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 12 08:05 : player: played "playlists/indie/Sachet Tandon, Sachet-Parampara - Bekhayali (From 'Kabir Singh').mp3"
+Jan 12 08:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 12 08:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 12 08:06 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Jan 13 21:52 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 13 21:52 : exception: Failed to access /home/etheroot/pers/mus/lib/lib64: No such file or directory
+Jan 13 22:58 : player: played "playlists/indie/Zeest - Bc Sutta.mp3"
+Jan 14 11:46 : player: played "playlists/indie/Zeest - Bc Sutta.mp3"
+Jan 15 09:32 : mixer: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Jan 15 09:32 : output: Failed to open mixer for 'default detected output': no such mixer control: PCM
