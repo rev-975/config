@@ -1,3 +1,24 @@
+add ~/pers/mus/pl/pop/Shankar Mahadevan, Alyssa Mendonsa - Uff Teri Adaa.mp3
+add A.R. Rahman, Arijit Singh - Enna Sona.mp3
+add chaleya.webm
+add ~/pers/mus/pl/study/
+live-filter :
+add ~/pers/mus/pl/classical/
+clear
+add ~/pers/mus/pl/pop/Anirudh Ravichander, Dhanush - Ey Inge Paaru (From 'Velai Illa Pattadhaari').mp3
+add ~/pers/mus
+colorscheme gruvbox-alt
+colorscheme spotify
+colorscheme solarized-dark
+colorscheme gruvbox-warm
+colorscheme gruvbox
+colorscheme green-mono-88
+colorscheme green
+colorscheme gray-88
+colorscheme default
+colorscheme dracula
+colorscheme amazon
+add ~/pers/mus/playlists/pop/Latoo.webm
 add ~/pers/mus/playlists/classical/Fabrizio Paterlini - My Misty Mornings.mp3
 add ~/pers/mus/playlists/classical/Niccolò Paganini, David Garrett, Alexander Markovich - La Campanella, Op. 7 - Arr. August Wilhelmj- arr. August Wilhelmj.mp3
 add
@@ -5,10 +26,7 @@ add ~/pers/mus/playlists/classical/Frédéric Chopin, Alexandre Tharaud - Prelud
 add ~/pers/mus/cl
 add 
 colorscheme night
-colorscheme gruvbox
-colorscheme green-mono-88
 colorscheme cyan
-colorscheme amazon
 q
 filter 
 add ~/pers/mus/playlists/classical/London Symphony Orchestra - 'In The Hall Of The Mountain King' from Peer Gynt Suite N°1, Op. 46.mp3
@@ -19,19 +37,15 @@ add ~/pers/mus/playlists/pop/A.R. Rahman, Jonita Gandhi - Mental Manadhil.mp3
 pl-rename flashing lights
 pl
 add ~/pers/mus/playlists/indie/Taaruk Raina - Sukoon.mp3
-add ~/pers/mus
 clear 
 add ~/pers/mus/playlists/rap/Chaar Diwaari - Jhaag.mp3
 colorscheme jellybeans
-colorscheme gruvbox-warm
-colorscheme gruvbox-alt
 add ~/pers/mus/playlists/indie/Zaeden, Lisa Mishra - Aa Mil.mp3
 add ~/pers/mus/playlists/indie/Kamal. - free flow.mp3
 w
 add pers/mus/playlists/indie/
 pl-create insufferable and somewhat resentful
 add pers/mus/playlists/indie/Nanku, Lil Kabeer, Shounok Banerjee - D K B N.mp3
-colorscheme dracula
 add ~/pers/mus/playlists/rap/Chaar Diwaari, Nanku, rohanyv - Bhool Ja.mp3
 add pers/mus/playlists/indie/Prateek Kuhad - Co2.mp3
 add pers/mus/playlists/pop/Dheeme dheeme.webm
@@ -48,5 +62,4 @@ bind
 pl-export
 unbind
 colorscheme zenburn
-colorscheme default
 add ~/pers/mus/playlists/

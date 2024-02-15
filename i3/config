@@ -564,6 +564,7 @@ strip_workspace_numbers yes
 #	bindsym F9 exec rofi -modi drun -show drun \
 #		-config ~/.config/rofi/rofidmenu.rasi
 bindsym $mod+d exec rofi -show run -modes "run#window" -theme ether1.rasi
+bindsym $mod+u exec dmenu_run
 
 # bindsym $mod+t exec rofi -show window \
 #		-config ~/.config/rofi/rofidmenu.rasi

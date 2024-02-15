@@ -1,21 +1,12 @@
-2024/01/24-20:17:14.930 cc239 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/24-20:17:14.931 cc239 Recovering log #231
-2024/01/24-20:17:14.932 cc239 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000231.log 
-2024/01/24-20:17:17.992 cc239 Compacting 1@1 + 1@2 files
-2024/01/24-20:17:18.010 cc239 Generated table #234@1: 257 keys, 694358 bytes
-2024/01/24-20:17:18.010 cc239 Compacted 1@1 + 1@2 files => 694358 bytes
-2024/01/24-20:17:18.020 cc239 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/01/24-20:17:18.021 cc239 Delete type=2 #232
-2024/01/24-20:17:18.021 cc239 Delete type=2 #229
-2024/01/24-20:19:19.121 cc23a Level-0 table #236: started
-2024/01/24-20:19:19.169 cc23a Level-0 table #236: 1691115 bytes OK
-2024/01/24-20:19:19.182 cc23a Delete type=0 #231
-2024/01/24-20:19:19.184 cc23a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2024/01/24-20:19:19.185 cc23a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 142880 : 1
-2024/01/24-20:19:19.185 cc23a Compacting 1@1 + 1@2 files
-2024/01/24-20:19:19.209 cc23a Generated table #237@1: 63 keys, 15471 bytes
-2024/01/24-20:19:19.209 cc23a Compacted 1@1 + 1@2 files => 15471 bytes
-2024/01/24-20:19:19.218 cc23a compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/01/24-20:19:19.219 cc23a Delete type=2 #236
-2024/01/24-20:19:19.219 cc23a Delete type=2 #234
-2024/01/24-20:19:19.221 cc23a Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 142880 : 1 .. (end); will stop at (end)
+2024/02/05-21:21:28.058 7c966 Reusing MANIFEST /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/05-21:21:28.058 7c966 Recovering log #239
+2024/02/05-21:21:28.061 7c966 Reusing old log /home/etheroot/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000239.log 
+2024/02/05-21:21:31.822 7c966 Compacting 1@1 + 1@2 files
+2024/02/05-21:21:31.851 7c966 Generated table #242@1: 214 keys, 633482 bytes
+2024/02/05-21:21:31.851 7c966 Compacted 1@1 + 1@2 files => 633482 bytes
+2024/02/05-21:21:31.858 7c966 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/05-21:21:31.858 7c966 Delete type=2 #237
+2024/02/05-21:21:31.859 7c966 Delete type=2 #240
+2024/02/05-21:21:45.651 7c965 Level-0 table #244: started
+2024/02/05-21:21:45.702 7c965 Level-0 table #244: 2634862 bytes OK
+2024/02/05-21:21:45.714 7c965 Delete type=0 #239

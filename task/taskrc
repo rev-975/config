@@ -25,12 +25,10 @@ hooks.location=~/.config/task/hooks
 # Color theme (uncomment one to use)
 #include light-16.theme
 #include light-256.theme
-include dark-16.theme
+#include dark-16.theme
 #include dark-256.theme
 #include dark-red-256.theme
 #include dark-green-256.theme
-#include spaceduck.theme
-#include nord.theme
 #include dark-blue-256.theme
 #include dark-violets-256.theme
 #include dark-yellow-green.theme
@@ -39,9 +37,15 @@ include dark-16.theme
 #include solarized-dark-256.theme
 #include solarized-light-256.theme
 #include no-color.theme
-report.list.columns=start.active,id,urgency,project,priority,due,due.relative,description
-report.list.labels= ,ID,Urg,Proj,Pri,Due,due,Desc
+include antiglare.theme
+report.list.columns=start.active,id,urgency,project,priority,due,due.relative,description,tags
+report.list.labels= ,ID,Urg,Proj,Pri,Due,due,Desc,tags
 default.command=list
 weekstart=monday
 search.case.sensitive=no
 active.indicator=>
+context.jee.read=+jee
+context.jee.write=+jee
+context.sch.read=+sch
+context.sch.write=+sch
+context.study.read=+jee or +sch
